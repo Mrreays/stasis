@@ -1,11 +1,42 @@
 services:
-  politique:
+  app:
     build: .
     restart: unless-stopped
-    ports:
-      - "127.0.0.1:8010:8000"
     environment:
       APP_PASSWORD: ${APP_PASSWORD:?définir APP_PASSWORD dans .env}
       APP_TZ: Europe/Paris
     volumes:
-      - ./data:/srv/data
+      - stasis_data:/srv/data      # base SQLite (ta progression)
+      - ./content:/srv/content:ro  # leçons : un simple « git pull » suffit à les mettre à jour
+    mem_limit: 256m
+    cpus: 0.5
+    read_only: true
+    tmpfs:
+      - /tmp
+    cap_drop: [ALL]
+    security_opt:
+      - no-new-privileges:true
+    networks: [internal]
+
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      DOMAIN: ${DOMAIN:?définir DOMAIN dans .env}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on: [app]
+    networks: [internal]
+
+volumes:
+  stasis_data:
+  caddy_data:
+  caddy_config:
+
+networks:
+  internal:

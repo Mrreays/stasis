@@ -9,6 +9,7 @@ import os
 import re
 import secrets
 import sqlite3
+import time
 from contextlib import contextmanager
 from datetime import date, datetime, timedelta
 from pathlib import Path
@@ -50,18 +51,47 @@ LEVEL_LABELS = {
 security = HTTPBasic(auto_error=False)
 
 
-def check_auth(credentials: HTTPBasicCredentials | None = Depends(security)):
+# Anti force brute : 5 mots de passe faux en 15 min => blocage de l'IP pour le reste de la fenêtre
+MAX_FAILS, WINDOW = 5, 900
+FAILS: dict[str, tuple[int, float]] = {}
+
+
+def client_ip(request: Request) -> str:
+    # Derrière Caddy, la dernière valeur de X-Forwarded-For est celle ajoutée par le proxy.
+    xff = request.headers.get("x-forwarded-for")
+    if xff:
+        return xff.split(",")[-1].strip()
+    return request.client.host if request.client else "?"
+
+
+def check_auth(request: Request, credentials: HTTPBasicCredentials | None = Depends(security)):
     if not PASSWORD:
         return
+    ip, now = client_ip(request), time.time()
+    if len(FAILS) > 1000:  # borne la mémoire
+        FAILS.clear()
+    count, first = FAILS.get(ip, (0, now))
+    if now - first > WINDOW:
+        count, first = 0, now
+    if count >= MAX_FAILS:
+        raise HTTPException(
+            status_code=429,
+            detail="Trop d'essais, réessaie plus tard",
+            headers={"Retry-After": str(max(1, int(WINDOW - (now - first))))},
+        )
     ok = credentials is not None and secrets.compare_digest(
         credentials.password.encode(), PASSWORD.encode()
     )
-    if not ok:
-        raise HTTPException(
-            status_code=401,
-            detail="Authentification requise",
-            headers={"WWW-Authenticate": 'Basic realm="Politique"'},
-        )
+    if ok:
+        FAILS.pop(ip, None)
+        return
+    if credentials is not None:  # la 1re demande sans identifiants (fenêtre du navigateur) ne compte pas
+        FAILS[ip] = (count + 1, first)
+    raise HTTPException(
+        status_code=401,
+        detail="Authentification requise",
+        headers={"WWW-Authenticate": 'Basic realm="Politique"'},
+    )
 
 
 app = FastAPI(dependencies=[Depends(check_auth)], docs_url=None, redoc_url=None)
