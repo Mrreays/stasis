@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-02",
+  "type": "notion",
+  "parcours": "Comportement électoral",
+  "sujet_curriculum": "Les modes de scrutin et la loi de Duverger",
+  "titre": "Pourquoi le mode de scrutin façonne le système de partis",
+  "resume": "La façon de transformer des voix en sièges influence le nombre de partis qui survivent. Le point de départ : la « loi » de Duverger.",
+  "contenu_md": "Un mode de scrutin n'est pas un simple outil technique : il fixe la règle qui transforme des voix en sièges, et cette règle modifie les comportements des électeurs, des candidats et des partis.\n\n**La proposition de Duverger.** Dans *Les partis politiques* (1951), Maurice Duverger avance trois tendances : le scrutin majoritaire à un tour favorise le bipartisme ; le scrutin majoritaire à deux tours favorise des partis multiples mais alliés ; la représentation proportionnelle favorise le multipartisme. Il parle de « loi » pour la première, mais la discipline la considère aujourd'hui comme une **tendance**, pas comme une règle mécanique.\n\n**Deux mécanismes.** Duverger distingue un effet *mécanique* (un petit parti dispersé sur le territoire obtient peu de sièges au regard de ses voix) et un effet *psychologique* (les électeurs, anticipant cela, hésitent à « gaspiller » leur voix, et les ambitieux rejoignent les grands partis).\n\n**Le cas français.** Les 577 députés sont élus au scrutin uninominal majoritaire à deux tours. Pour être élu dès le premier tour, il faut la majorité absolue des suffrages exprimés **et** au moins 25 % des inscrits. Pour se maintenir au second tour, il faut avoir recueilli au moins 12,5 % des inscrits (et non des suffrages exprimés). Quand la participation est élevée, plusieurs candidats franchissent ce seuil : ce sont les triangulaires. Au second tour des législatives de 2024 (7 juillet), de nombreux désistements ont servi à éviter ces triangulaires, ce qui illustre bien la logique d'alliance propre au système à deux tours.\n\n> Le mode de scrutin pèse sur la stratégie des acteurs, mais il ne fait pas tout : les clivages sociaux et historiques d'un pays comptent aussi.\n\n**Les limites.** Giovanni Sartori a reformulé les propositions de Duverger avec plus de précautions. Des contre-exemples sont souvent cités, comme l'Inde, où le scrutin majoritaire à un tour coexiste avec de nombreux partis, ce qui renvoie au poids des clivages régionaux, linguistiques ou religieux.\n\n**Un débat de fond.** Le choix du mode de scrutin renvoie à deux valeurs qui s'opposent : la capacité à dégager une majorité claire et stable, ou la fidélité de la représentation aux suffrages exprimés.",
+  "points_cles": [
+    "Le mode de scrutin influence le nombre de partis par un effet mécanique et un effet psychologique.",
+    "La « loi » de Duverger est une tendance, discutée et nuancée (Sartori, contre-exemples).",
+    "Législatives : élu au 1er tour avec la majorité absolue des exprimés ET 25 % des inscrits ; maintien au 2nd tour à 12,5 % des inscrits."
+  ],
+  "positions": [
+    {
+      "position": "Privilégier la majorité claire et la stabilité (scrutin majoritaire)",
+      "argument": "Il facilite l'émergence d'une majorité de gouvernement identifiable et permet à l'électeur de choisir directement une orientation et de sanctionner la majorité sortante.",
+      "auteurs": ["Maurice Duverger", "Giovanni Sartori (en nuançant)"]
+    },
+    {
+      "position": "Privilégier la représentativité (proportionnelle)",
+      "argument": "Elle reflète plus fidèlement la diversité des suffrages et favorise le consensus et la négociation entre partis, au prix de coalitions plus longues à former.",
+      "auteurs": ["Arend Lijphart (Patterns of Democracy)"]
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Maurice Duverger, Les partis politiques (1951)",
+      "url": null,
+      "niveau": "academique",
+      "positionnement": "ouvrage fondateur de la science politique française"
+    },
+    {
+      "titre": "Arend Lijphart, Patterns of Democracy (1999, 2e éd. 2012)",
+      "url": null,
+      "niveau": "academique",
+      "positionnement": "comparaison de 36 démocraties, plaide pour le modèle consensuel"
+    },
+    {
+      "titre": "Code électoral, articles L. 126 et L. 162 (Légifrance)",
+      "url": "https://www.legifrance.gouv.fr",
+      "niveau": "officiel",
+      "positionnement": "texte de loi (seuils du 1er tour et du maintien au 2nd tour)"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Que dit la « loi » de Duverger ?",
+      "r": "Le scrutin majoritaire à un tour tend au **bipartisme** ; le majoritaire à deux tours et la proportionnelle tendent au **multipartisme** (alliances pour le premier). Formulée dans *Les partis politiques* (1951), elle est aujourd'hui vue comme une tendance."
+    },
+    {
+      "q": "Quelles sont les deux conditions pour être élu député dès le premier tour ?",
+      "r": "La **majorité absolue des suffrages exprimés** et **au moins 25 % des inscrits**."
+    },
+    {
+      "q": "Quel seuil pour se maintenir au second tour des législatives ?",
+      "r": "**12,5 % des inscrits** (et non des suffrages exprimés). Quand la participation est forte, cela produit des triangulaires."
+    },
+    {
+      "q": "Quels sont l'effet mécanique et l'effet psychologique d'un mode de scrutin ?",
+      "r": "**Mécanique** : un petit parti dispersé obtient peu de sièges au regard de ses voix. **Psychologique** : les électeurs, anticipant cela, évitent de « gaspiller » leur voix."
+    }
+  ],
+  "question_reflexion": "Entre dégager une majorité claire et représenter fidèlement tous les suffrages, quelle valeur te semble prioritaire pour les législatives, et quelles conséquences en tirerais-tu sur le mode de scrutin ?",
+  "a_verifier": [
+    "Contenu d'exemple rédigé à la main au lancement du projet : relis les seuils dans le Code électoral avant de t'y fier."
+  ]
+}

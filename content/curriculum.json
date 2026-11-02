@@ -1,0 +1,53 @@
+{
+  "description": "Plan de sujets pour les jours « notion de fond ». La tâche prend le premier sujet de l'ordre ci-dessous dont la chaîne n'apparaît dans aucun champ sujet_curriculum des leçons existantes.",
+  "ordre_des_parcours": ["Institutions", "Comportement électoral", "Idéologies", "International et comparé", "Économie politique"],
+  "parcours": {
+    "Institutions": [
+      "La Ve République : origines et logique (1958)",
+      "Président et Premier ministre : dyarchie et cohabitation",
+      "Le Parlement rationalisé : 49.3, vote bloqué et maîtrise de l'ordre du jour",
+      "Le Conseil constitutionnel, le contrôle de constitutionnalité et la QPC",
+      "Quinquennat et inversion du calendrier électoral",
+      "Le référendum : articles 11 et 89",
+      "Décentralisation et collectivités territoriales",
+      "Le Sénat : mode d'élection et rôle"
+    ],
+    "Comportement électoral": [
+      "Les modes de scrutin et la loi de Duverger",
+      "Les clivages sociaux et politiques (Lipset et Rokkan)",
+      "Vote de classe, diplôme et territoire",
+      "Abstention et participation électorale",
+      "Sondages : méthodes, marge d'erreur et limites",
+      "Volatilité électorale et recomposition partisane",
+      "Les lectures concurrentes du vote d'extrême droite",
+      "Le vote des jeunes et le vote générationnel"
+    ],
+    "Idéologies": [
+      "Le libéralisme politique et économique",
+      "Le socialisme et la social-démocratie",
+      "Le conservatisme",
+      "Le républicanisme français et la laïcité",
+      "L'écologie politique",
+      "Le populisme : définitions et débats",
+      "Le nationalisme",
+      "Néolibéralisme : concept et controverses"
+    ],
+    "International et comparé": [
+      "Présidentialisme, parlementarisme et semi-présidentialisme",
+      "Le système politique des États-Unis et le collège électoral",
+      "L'Union européenne : institutions et procédure législative",
+      "Le modèle de Westminster (Royaume-Uni)",
+      "L'Allemagne : scrutin mixte, fédéralisme et coalitions",
+      "Les « démocraties illibérales » : concept et débats",
+      "L'ONU et le Conseil de sécurité"
+    ],
+    "Économie politique": [
+      "Le budget de l'État : loi de finances, déficit et dette",
+      "La protection sociale en France : logique et financement",
+      "Le système de retraites : répartition et réformes",
+      "La fiscalité : impôts directs et indirects, progressivité",
+      "La BCE et la politique monétaire",
+      "Le marché du travail et le chômage : mesures et débats"
+    ]
+  }
+}

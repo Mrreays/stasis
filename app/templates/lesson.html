@@ -1,0 +1,71 @@
+{% extends "base.html" %}
+{% block title %}{{ lesson.titre }} · Politique au quotidien{% endblock %}
+{% block content %}
+<article class="lesson">
+  <p class="eyebrow">{{ lesson.date | frdate }} · {{ lesson.minutes }} min</p>
+  <div class="chips">
+    <span class="chip">{{ TYPE_LABELS.get(lesson.type, lesson.type) }}</span>
+    {% if lesson.parcours %}<span class="chip chip-soft">{{ lesson.parcours }}</span>{% endif %}
+  </div>
+  <h1>{{ lesson.titre }}</h1>
+  {% if lesson.resume %}<p class="lead">{{ lesson.resume }}</p>{% endif %}
+
+  <div class="prose">{{ lesson.contenu_md | md }}</div>
+
+  {% if lesson.points_cles %}
+  <section class="box">
+    <h2>À retenir</h2>
+    <ul>{% for p in lesson.points_cles %}<li>{{ p }}</li>{% endfor %}</ul>
+  </section>
+  {% endif %}
+
+  {% if lesson.positions %}
+  <section>
+    <h2>Les positions en présence</h2>
+    <div class="positions">
+      {% for p in lesson.positions %}
+      <div class="position">
+        <h3>{{ p.position }}</h3>
+        <p>{{ p.argument }}</p>
+        {% if p.auteurs %}<p class="muted">Travaux et auteurs : {{ p.auteurs | join(', ') }}</p>{% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  {% if lesson.question_reflexion %}
+  <section class="box box-q">
+    <h2>Question de réflexion</h2>
+    <p>{{ lesson.question_reflexion }}</p>
+  </section>
+  {% endif %}
+
+  {% if lesson.sources %}
+  <section>
+    <h2>Sources</h2>
+    <ul class="sources">
+      {% for s in lesson.sources %}
+      <li>
+        <span class="badge badge-{{ s.niveau }}">{{ LEVEL_LABELS.get(s.niveau, s.niveau) }}</span>
+        {% if s.url %}<a href="{{ s.url }}" target="_blank" rel="noopener noreferrer">{{ s.titre }}</a>{% else %}{{ s.titre }}{% endif %}
+        {% if s.positionnement %}<span class="muted"> — {{ s.positionnement }}</span>{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
+
+  {% if lesson.a_verifier %}
+  <section class="box box-warn">
+    <h2>À vérifier / incertain</h2>
+    <ul>{% for a in lesson.a_verifier %}<li>{{ a }}</li>{% endfor %}</ul>
+  </section>
+  {% endif %}
+
+  {% if lesson.flashcards %}
+  <p class="muted">{{ lesson.flashcards | length }} carte{{ 's' if lesson.flashcards | length > 1 }} ajoutée{{ 's' if lesson.flashcards | length > 1 }} à ta révision (dès demain).</p>
+  {% endif %}
+  <p><a class="btn" href="/">← Retour</a></p>
+</article>
+{% endblock %}

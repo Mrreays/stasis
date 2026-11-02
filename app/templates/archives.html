@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}Archives · Politique au quotidien{% endblock %}
+{% block content %}
+<p class="eyebrow">Archives</p>
+<h1>Toutes les leçons</h1>
+{% if rows %}
+<ul class="archive">
+  {% for r in rows %}
+  <li>
+    <a href="/lecon/{{ r.date }}">
+      <span class="muted">{{ r.date | frdate }}</span>
+      <strong>{{ r.titre }}</strong>
+      <span class="chip chip-soft">{{ TYPE_LABELS.get(r.type, r.type) }}</span>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p class="muted">Pas encore de leçon.</p>
+{% endif %}
+{% endblock %}

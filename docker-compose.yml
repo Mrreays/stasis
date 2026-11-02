@@ -1,0 +1,11 @@
+services:
+  politique:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8010:8000"
+    environment:
+      APP_PASSWORD: ${APP_PASSWORD:?définir APP_PASSWORD dans .env}
+      APP_TZ: Europe/Paris
+    volumes:
+      - ./data:/srv/data

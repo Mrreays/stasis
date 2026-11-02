@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}Révision · Politique au quotidien{% endblock %}
+{% block content %}
+<p class="eyebrow">Révision · {{ remaining }} restante{{ 's' if remaining > 1 }}</p>
+
+{% if card %}
+<section class="flash" id="flash">
+  <p class="muted">Leçon du {{ card.lesson_date | frdate }}</p>
+  <h2 class="q">{{ card.q }}</h2>
+
+  <div id="answer" class="answer" hidden>
+    <div class="prose">{{ card.r | md }}</div>
+  </div>
+
+  <button class="btn btn-main" id="show" type="button">Voir la réponse</button>
+
+  <form id="rate" method="post" action="/revision/{{ card.id }}" hidden>
+    <button class="btn btn-no" name="result" value="rate">Raté</button>
+    <button class="btn btn-mid" name="result" value="hesite">J'ai hésité</button>
+    <button class="btn btn-yes" name="result" value="su">Su</button>
+  </form>
+</section>
+<script>
+  document.getElementById('show').addEventListener('click', function () {
+    document.getElementById('answer').hidden = false;
+    document.getElementById('rate').hidden = false;
+    this.hidden = true;
+  });
+</script>
+{% else %}
+<section class="flash done">
+  <h2>{% if reviewed_today %}Révision terminée ✓{% else %}Rien à réviser pour l'instant{% endif %}</h2>
+  {% if reviewed_today %}<p>{{ reviewed_today }} carte{{ 's' if reviewed_today > 1 }} revue{{ 's' if reviewed_today > 1 }} aujourd'hui.</p>{% endif %}
+  {% if next_due %}<p class="muted">Prochaine carte : {{ next_due | frdate }}.</p>{% endif %}
+  <p><a class="btn btn-main" href="/">Voir le sujet du jour</a></p>
+</section>
+{% endif %}
+{% endblock %}
