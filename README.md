@@ -15,53 +15,45 @@ python -m venv .venv && .venv/bin/pip install -r requirements.txt
 APP_PASSWORD=monmotdepasse .venv/bin/uvicorn app.main:app --reload
 ```
 
-## Serveur dédié (Hetzner)
+## Déploiement sur un serveur qui héberge déjà d'autres projets
+`stasis` reste isolé : son propre dossier (`/opt/stasis`), son propre réseau Docker, sa propre base, 256 Mo de RAM max, sans droits root. Il n'écoute que sur `127.0.0.1:8010`.
 
-### 1. Créer le serveur
-Console Hetzner Cloud → **nouveau projet « stasis »** (séparé de celui d'alltool) → Add Server : Ubuntu 24.04, plus petit modèle Shared vCPU (≥ 2 Go de RAM conseillé pour le build), IPv4 publique, ta clé SSH dédiée (`ssh-keygen -t ed25519 -f ~/.ssh/stasis`, colle le `.pub`). Ajoute un **Firewall Cloud** : entrées 22 (idéalement limité à ton IP), 80 et 443 uniquement.
-
-### 2. DNS
-Enregistrement `A` : `politique.<ton-domaine>` → IP du serveur. Sans domaine : `<IP-avec-des-tirets>.sslip.io` fonctionne aussi (ex. `1-2-3-4.sslip.io`).
-
-### 3. Durcissement (une fois, en root)
 ```
-ssh root@<IP du serveur>
-apt update && apt -y upgrade
-apt -y install ufw fail2ban unattended-upgrades ca-certificates curl git
-curl -fsSL https://get.docker.com | sh
-
-# SSH : clé uniquement (garde cette session ouverte et teste une 2e connexion avant de la fermer)
-cat > /etc/ssh/sshd_config.d/00-hardening.conf <<'EOF'
-PasswordAuthentication no
-PermitRootLogin prohibit-password
-EOF
-systemctl restart ssh
-
-ufw default deny incoming && ufw allow 22/tcp && ufw allow 80/tcp && ufw allow 443/tcp && ufw --force enable
-systemctl enable --now fail2ban unattended-upgrades
-```
-
-### 4. Déployer
-```
+ssh root@<IP du VPS>
 git clone https://github.com/Mrreays/stasis.git /opt/stasis && cd /opt/stasis
 umask 077
-printf "APP_PASSWORD=%s\nDOMAIN=politique.<ton-domaine>\n" "$(openssl rand -base64 24 | tr -d '/+=')" > .env
+printf "APP_PASSWORD=%s\n" "$(openssl rand -base64 24 | tr -d '/+=')" > .env
 cat .env     # copie le mot de passe dans ton gestionnaire, une seule fois
-docker compose up -d --build
+docker compose up -d --build --remove-orphans
 ```
 
-### 5. Recevoir les leçons chaque matin
+Accès sans exposer l'appli sur internet (tunnel SSH, depuis ton ordinateur) :
+```
+ssh -L 8010:127.0.0.1:8010 root@<IP du VPS>
+```
+puis `http://localhost:8010`.
+
+Pour une adresse permanente en HTTPS, il faut une entrée dédiée dans le reverse proxy déjà en place (sous-domaine vers `127.0.0.1:8010`).
+
+### Recevoir les leçons chaque matin
 Les leçons sont montées depuis `content/` : un `git pull` suffit, sans reconstruire.
 ```
-cat > /etc/cron.d/stasis <<'EOF'
+cat > /etc/cron.d/stasis <<'EOF2'
 40 6 * * * root cd /opt/stasis && git pull --ff-only -q
 30 7 * * * root cd /opt/stasis && git pull --ff-only -q
-EOF
+EOF2
 ```
 
 ### Mise à jour du code / relance
 ```
-ssh root@<IP du serveur>
-cd /opt/stasis && git pull && docker compose up -d --build
+ssh root@<IP du VPS>
+cd /opt/stasis && git pull && docker compose up -d --build --remove-orphans
 ```
 La progression est dans le volume Docker `stasis_data` : elle survit aux mises à jour.
+
+## Variante : serveur dédié avec HTTPS automatique (Caddy)
+Pour un serveur qui n'héberge que `stasis` (ports 80 et 443 libres), un domaine pointant vers le serveur et `DOMAIN=politique.<ton-domaine>` dans `.env` :
+```
+docker compose -f docker-compose.yml -f docker-compose.caddy.yml up -d --build
+```
+Durcissement conseillé du serveur : SSH par clé uniquement, `ufw` (22, 80, 443), `fail2ban`, `unattended-upgrades`.

@@ -1,0 +1,24 @@
+# Optionnel : serveur DÉDIÉ à stasis, avec HTTPS automatique (ports 80 et 443 libres requis).
+# Usage : docker compose -f docker-compose.yml -f docker-compose.caddy.yml up -d --build
+# Nécessite DOMAIN=... dans .env
+services:
+  app:
+    ports: !reset []
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      DOMAIN: ${DOMAIN:?définir DOMAIN dans .env}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on: [app]
+    networks: [stasis_net]
+
+volumes:
+  caddy_data:
+  caddy_config:
