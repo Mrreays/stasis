@@ -7,6 +7,8 @@ RUN useradd --system --uid 10001 --no-create-home app \
     && mkdir -p /srv/data && chown app:app /srv/data
 COPY app ./app
 COPY content ./content
+# Les fichiers doivent rester lisibles par l'utilisateur non-root, quel que soit le umask de l'hôte
+RUN chmod -R a+rX /srv/app /srv/content
 ENV DB_PATH=/srv/data/app.db
 USER app
 EXPOSE 8000
