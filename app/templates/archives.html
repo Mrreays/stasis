@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block title %}Archives · Politique au quotidien{% endblock %}
+{% block title %}Archives · Stasis{% endblock %}
 {% block content %}
 <p class="eyebrow">Archives</p>
 <h1>Toutes les leçons</h1>
@@ -10,7 +10,7 @@
     <a href="/lecon/{{ r.date }}">
       <span class="muted">{{ r.date | frdate }}</span>
       <strong>{{ r.titre }}</strong>
-      <span class="chip chip-soft">{{ TYPE_LABELS.get(r.type, r.type) }}</span>
+      <span class="chips"><span class="chip chip-soft">{{ TYPE_LABELS.get(r.type, r.type) }}</span>{% if r.learned_at %}<span class="chip chip-ok">✓ Appris</span>{% endif %}</span>
     </a>
   </li>
   {% endfor %}

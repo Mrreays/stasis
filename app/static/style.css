@@ -94,3 +94,15 @@ h3 { font-size: 1.05rem; margin: 0 0 .3em; }
 .archive li { border-bottom: 1px solid var(--line); }
 .archive a { display: flex; flex-direction: column; gap: 2px; padding: 14px 0; color: var(--ink); text-decoration: none; }
 .archive a:hover strong { color: var(--accent); }
+
+.chip-ok { background: transparent; color: var(--ok); border: 1px solid var(--ok); }
+.stats b small { font-size: .9rem; color: var(--muted); font-weight: 400; }
+.learn { margin: 32px 0 18px; padding: 22px 20px; text-align: center; background: var(--card);
+         border: 1px solid var(--line); border-radius: 16px; display: flex; flex-direction: column; align-items: center; gap: 12px; }
+.learn p { margin: 0; }
+.learn-q { font-family: var(--serif); font-size: 1.1rem; }
+.learn-done { border-color: var(--ok); }
+.learn-state { font-family: var(--serif); font-size: 1.2rem; color: var(--ok); }
+.tick { font-weight: 700; }
+.btn-big { padding: 14px 26px; font-size: 1.05rem; }
+.btn-ghost { color: var(--muted); }

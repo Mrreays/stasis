@@ -1,6 +1,6 @@
-# Politique au quotidien
+# Stasis
 
-Une leçon de ~5 min par jour + des flashcards à réviser (répétition espacée de Leitner).
+Stasis : une leçon de ~5 min par jour + des flashcards à réviser (répétition espacée de Leitner).
 
 ## Fonctionnement
 - Une tâche planifiée Claude (6h20, Paris) écrit `content/AAAA-MM-JJ.json` et le pousse sur ce dépôt. Le prompt est dans `docs/prompt_tache.md`.

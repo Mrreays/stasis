@@ -90,7 +90,7 @@ def check_auth(request: Request, credentials: HTTPBasicCredentials | None = Depe
     raise HTTPException(
         status_code=401,
         detail="Authentification requise",
-        headers={"WWW-Authenticate": 'Basic realm="Politique"'},
+        headers={"WWW-Authenticate": 'Basic realm="Stasis"'},
     )
 
 
@@ -142,7 +142,7 @@ def init_db():
             """
             CREATE TABLE IF NOT EXISTS lessons(
                 date TEXT PRIMARY KEY, type TEXT, titre TEXT, parcours TEXT,
-                resume TEXT, data TEXT NOT NULL
+                resume TEXT, data TEXT NOT NULL, learned_at TEXT
             );
             CREATE TABLE IF NOT EXISTS cards(
                 id TEXT PRIMARY KEY, lesson_date TEXT NOT NULL,
@@ -158,6 +158,9 @@ def init_db():
             CREATE INDEX IF NOT EXISTS idx_cards_due ON cards(due);
             """
         )
+        cols = {r["name"] for r in c.execute("PRAGMA table_info(lessons)")}
+        if "learned_at" not in cols:  # base créée avant l'ajout du bouton « Appris »
+            c.execute("ALTER TABLE lessons ADD COLUMN learned_at TEXT")
 
 
 _signature = None
@@ -207,6 +210,7 @@ def startup():
 def load_lesson(row) -> dict:
     d = json.loads(row["data"])
     d["date"] = row["date"]
+    d["learned_at"] = row["learned_at"]
     words = len((d.get("contenu_md") or "").split())
     d["minutes"] = max(1, round(words / 200))
     return d
@@ -240,11 +244,14 @@ def home(request: Request):
             "SELECT box, COUNT(*) n FROM cards GROUP BY box")}
         total = sum(boxes.values())
         lessons_count = c.execute("SELECT COUNT(*) FROM lessons WHERE date<=?", (t,)).fetchone()[0]
+        learned = c.execute(
+            "SELECT COUNT(*) FROM lessons WHERE date<=? AND learned_at IS NOT NULL", (t,)
+        ).fetchone()[0]
         st = streak(c)
     return templates.TemplateResponse(request, "home.html", {
         "lesson": lesson, "is_today": bool(lesson and lesson["date"] == t),
         "due": due, "boxes": boxes, "total": total,
-        "lessons_count": lessons_count, "streak": st, "today": t,
+        "lessons_count": lessons_count, "learned": learned, "streak": st, "today": t,
     })
 
 
@@ -262,12 +269,28 @@ def lesson_page(request: Request, day: str):
     return templates.TemplateResponse(request, "lesson.html", {"lesson": load_lesson(row)})
 
 
+@app.post("/lecon/{day}/appris")
+def mark_learned(day: str, etat: str = Form("1")):
+    """Marque la leçon comme apprise (etat=1) ou annule (etat=0)."""
+    if not DATE_RE.match(day):
+        raise HTTPException(404)
+    with db() as c:
+        row = c.execute(
+            "SELECT date FROM lessons WHERE date=? AND date<=?", (day, today().isoformat())
+        ).fetchone()
+        if not row:
+            raise HTTPException(404, "Leçon introuvable")
+        stamp = datetime.now(TZ).isoformat(timespec="seconds") if etat == "1" else None
+        c.execute("UPDATE lessons SET learned_at=? WHERE date=?", (stamp, day))
+    return RedirectResponse(f"/lecon/{day}", status_code=303)
+
+
 @app.get("/archives")
 def archives(request: Request):
     sync_content()
     with db() as c:
         rows = c.execute(
-            "SELECT date, type, titre, parcours, resume FROM lessons WHERE date<=? ORDER BY date DESC",
+            "SELECT date, type, titre, parcours, resume, learned_at FROM lessons WHERE date<=? ORDER BY date DESC",
             (today().isoformat(),),
         ).fetchall()
     return templates.TemplateResponse(request, "archives.html", {"rows": rows})

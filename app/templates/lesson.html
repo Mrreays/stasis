@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block title %}{{ lesson.titre }} · Politique au quotidien{% endblock %}
+{% block title %}{{ lesson.titre }} · Stasis{% endblock %}
 {% block content %}
 <article class="lesson">
   <p class="eyebrow">{{ lesson.date | frdate }} · {{ lesson.minutes }} min</p>
@@ -62,6 +62,18 @@
     <ul>{% for a in lesson.a_verifier %}<li>{{ a }}</li>{% endfor %}</ul>
   </section>
   {% endif %}
+
+  <section class="learn {% if lesson.learned_at %}learn-done{% endif %}">
+    {% if lesson.learned_at %}
+    <p class="learn-state"><span class="tick">✓</span> Sujet appris <span class="muted">· {{ lesson.learned_at[:10] | frdate }}</span></p>
+    <form method="post" action="/lecon/{{ lesson.date }}/appris"><input type="hidden" name="etat" value="0">
+      <button class="btn btn-ghost" type="submit">Annuler</button></form>
+    {% else %}
+    <p class="learn-q">Tu as fini de lire ce sujet ?</p>
+    <form method="post" action="/lecon/{{ lesson.date }}/appris"><input type="hidden" name="etat" value="1">
+      <button class="btn btn-main btn-big" type="submit">Marquer comme appris</button></form>
+    {% endif %}
+  </section>
 
   {% if lesson.flashcards %}
   <p class="muted">{{ lesson.flashcards | length }} carte{{ 's' if lesson.flashcards | length > 1 }} ajoutée{{ 's' if lesson.flashcards | length > 1 }} à ta révision (dès demain).</p>

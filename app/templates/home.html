@@ -19,10 +19,10 @@
   {% if lesson %}
   <a class="tile tile-lesson" href="/lecon/{{ lesson.date }}">
     <span class="tile-step">2 · {% if is_today %}Nouveau sujet{% else %}Dernière leçon ({{ lesson.date | frdate }}){% endif %}</span>
-    <span class="chip">{{ TYPE_LABELS.get(lesson.type, lesson.type) }}</span>
+    <span class="chips"><span class="chip">{{ TYPE_LABELS.get(lesson.type, lesson.type) }}</span>{% if lesson.learned_at %}<span class="chip chip-ok">✓ Appris</span>{% endif %}</span>
     <span class="tile-title">{{ lesson.titre }}</span>
     <span class="tile-text">{{ lesson.resume }}</span>
-    <span class="tile-cta">Lire · {{ lesson.minutes }} min →</span>
+    <span class="tile-cta">{% if lesson.learned_at %}Relire{% else %}Lire · {{ lesson.minutes }} min{% endif %} →</span>
   </a>
   {% else %}
   <div class="tile"><span class="tile-step">2 · Nouveau sujet</span>
@@ -32,7 +32,7 @@
 
 <section class="stats">
   <div><b>{{ streak }}</b><span>jour{{ 's' if streak > 1 }} de suite</span></div>
-  <div><b>{{ lessons_count }}</b><span>leçon{{ 's' if lessons_count > 1 }}</span></div>
+  <div><b>{{ learned }}<small>/{{ lessons_count }}</small></b><span>sujet{{ 's' if learned > 1 }} appris</span></div>
   <div><b>{{ total }}</b><span>carte{{ 's' if total > 1 }}</span></div>
   <div class="boxes" title="Cartes par boîte de Leitner (1 = fragile, 5 = acquise)">
     {% for i in range(1, 6) %}<i style="--h: {{ (boxes.get(i, 0) / total * 100) if total else 0 }}%"><u>{{ i }}</u></i>{% endfor %}
