@@ -21,11 +21,9 @@ APP_PASSWORD=monmotdepasse .venv/bin/uvicorn app.main:app --reload
 ```
 ssh root@<IP du VPS>
 git clone https://github.com/Mrreays/stasis.git /opt/stasis && cd /opt/stasis
-umask 077
-printf "APP_PASSWORD=%s\n" "$(openssl rand -base64 24 | tr -d '/+=')" > .env
-cat .env     # copie le mot de passe dans ton gestionnaire, une seule fois
-docker compose up -d --build --remove-orphans
+bash scripts/mot-de-passe.sh   # génère le mot de passe, l'écrit dans .env, lance l'appli et l'affiche UNE fois
 ```
+Le même script sert à **changer** le mot de passe plus tard (il en génère un nouveau et relance l'appli).
 
 Accès sans exposer l'appli sur internet (tunnel SSH, depuis ton ordinateur) :
 ```
