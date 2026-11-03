@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-03",
+  "type": "actu",
+  "parcours": "Actualité : budget et Parlement",
+  "titre": "Budget 2027 : le vote sur les recettes, un test pour l'Assemblée",
+  "resume": "Le 3 novembre 2026, l'Assemblée vote sur la première partie du PLF 2027 (les recettes). Un rejet ferait tomber tout le texte, comme l'an dernier.",
+  "contenu_md": "## Contexte\n\nLe mardi 3 novembre 2026, dans l'après-midi, l'Assemblée nationale est appelée à voter par scrutin solennel sur la **première partie du projet de loi de finances (PLF) pour 2027**, celle qui porte sur les **recettes** de l'État (source : Assemblée nationale). Ce vote avait d'abord été prévu le 20 octobre, puis reporté. Il intervient à six mois de l'élection présidentielle de 2027, ce qui pèse sur tous les calculs partisans.\n\nCe vote compte pour une raison de procédure. Si la première partie est rejetée, **l'ensemble du texte tombe en première lecture** : les amendements adoptés disparaissent et le Sénat reçoit le texte initial du gouvernement. C'est ce qui s'est produit l'an dernier (rejet par 404 voix contre 1, selon le décompte de NosParlementaires), avant une loi spéciale puis une adoption du budget 2026 par 49.3 en février 2026 (la presse internationale a rapporté l'échec de deux motions de censure à cette occasion).\n\n## La mécanique constitutionnelle\n\nL'article 47 de la Constitution encadre le temps : l'Assemblée dispose de 40 jours, le Sénat de 15, et le Parlement de 70 jours au total. Passé ce délai, le gouvernement peut mettre en vigueur le budget **par ordonnance**. Pour le PLF 2027, ce délai de 70 jours expire le 17 décembre selon NosParlementaires. Le vote sur l'ensemble du texte est fixé au 17 novembre.\n\nC'est un exemple de ce que la doctrine, depuis Boris Mirkine-Guetzévitch, appelle le **parlementarisme rationalisé** : la Ve République enferme le travail parlementaire dans des délais et des procédures (article 47, article 49 alinéa 3) pour éviter la paralysie. Le 49.3 permet au gouvernement de faire adopter un texte sans vote, sauf adoption d'une motion de censure.\n\n## Où en est le débat\n\nD'après le décompte de NosParlementaires (site de suivi parlementaire, non institutionnel), les députés avaient, au 30 octobre, examiné 28 des 58 articles. Dix articles ont été supprimés ou rejetés, dont une surtaxe sur les grandes entreprises (5 Md€, supprimée par 79 voix contre 77 le 27 octobre), le rabot de l'abattement des retraités (1,4 Md€) et une ponction de 2,5 Md€ sur les collectivités. À l'inverse, 322 amendements ont été adoptés, par exemple le rétablissement d'une exit tax, une taxe sur les rachats d'actions ou le relèvement du plafond des heures supplémentaires exonérées à 15 000 €.\n\nLa même source relève un mécanisme politique : **le Rassemblement national est décisif**. Quand il vote une suppression, la mesure du gouvernement tombe ; quand il s'abstient, des taxes proposées par la gauche peuvent passer. Le bloc central ne l'emporte que si le RN ou les socialistes votent avec lui.\n\n## Acteurs et positions\n\nLe gouvernement veut un budget qui poursuive la réduction du déficit ; plusieurs de ses mesures ont été rejetées. Selon NosParlementaires, des propositions de la gauche (taxes sur les pétroliers, crédit d'impôt recherche) ont échoué faute du soutien du RN, tandis que d'autres taxes de gauche sont passées quand le RN s'est abstenu. Les positions des groupes rapportées ici sont celles de cette source de suivi, à recouper avec les déclarations officielles des partis (sources partisanes).\n\nDans une position institutionnelle, la présidente de l'Assemblée, Yaël Braun-Pivet, a plaidé en juillet 2026 pour un 49.3 « assez rapide » à l'automne, après négociation préalable avec tous les groupes, en jugeant la procédure budgétaire trop longue (source : LCP, chaîne parlementaire publique). Elle reconnaît être d'ordinaire opposée à cet outil.\n\n## Enjeux\n\n- **Démocratique** : un budget amendé de façon désordonnée par des majorités de circonstance est-il plus légitime qu'un texte adopté par 49.3 ? Les deux lectures existent.\n- **Financier** : la trajectoire du déficit, surveillée par les marchés et par Bruxelles.\n- **Électoral** : chaque parti se positionne avant la présidentielle de 2027.\n\n## Ce qui est incertain\n\nLe résultat du vote du 3 novembre n'est pas connu au moment où cette leçon est écrite. Trois scénarios sont possibles : adoption, rejet comme l'an dernier, ou adoption d'un texte profondément remanié. La suite (recours au 49.3, motions de censure, ordonnance en cas de dépassement du délai) dépend de ce vote et des rapports de force avec le RN et les socialistes. Les chiffres cités proviennent d'une source de suivi non institutionnelle et sont à recouper avec le compte rendu officiel.\n",
+  "points_cles": [
+    "Le 3 novembre 2026, vote solennel sur la partie « recettes » du PLF 2027 ; un rejet fait tomber tout le texte en première lecture.",
+    "L'article 47 de la Constitution fixe 70 jours au Parlement ; au-delà, le budget peut passer par ordonnance (échéance du 17 décembre 2026 pour le PLF 2027, selon NosParlementaires).",
+    "Le RN est un pivot : selon son vote ou son abstention, mesures du gouvernement ou taxes de gauche passent ou tombent.",
+    "Le résultat du vote n'était pas connu à la rédaction de cette leçon."
+  ],
+  "positions": [
+    {
+      "position": "Le 49.3 est un outil acceptable en contexte exceptionnel",
+      "argument": "Yaël Braun-Pivet (déclaration d'acteur) l'envisage pour raccourcir une procédure jugée trop longue, avec négociation préalable.",
+      "auteurs": [
+        "Yaël Braun-Pivet"
+      ]
+    },
+    {
+      "position": "Le débat parlementaire doit aller à son terme",
+      "argument": "Les amendements adoptés (322 selon NosParlementaires) montrent un Parlement qui exerce réellement son pouvoir budgétaire, au prix d'un texte incohérent pour certains.",
+      "auteurs": []
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Assemblée nationale : examen de la première partie du PLF 2027",
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+      "niveau": "officiel",
+      "positionnement": "institution (calendrier, procédure)"
+    },
+    {
+      "titre": "NosParlementaires : Date du vote du budget 2027, mardi 3 novembre",
+      "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines",
+      "niveau": "presse",
+      "positionnement": "site de suivi parlementaire non institutionnel ; chiffres à recouper"
+    },
+    {
+      "titre": "LCP : Braun-Pivet préconise un 49.3 concerté (9 juillet 2026)",
+      "url": "https://lcp.fr/actualites/budget-a-l-approche-de-la-presidentielle-yael-braun-pivet-preconise-un-493-concerte-pour",
+      "niveau": "partisan",
+      "positionnement": "chaîne parlementaire ; propos d'une actrice politique"
+    },
+    {
+      "titre": "Boris Mirkine-Guetzévitch, concept de « parlementarisme rationalisé » (années 1930)",
+      "url": null,
+      "niveau": "academique",
+      "positionnement": "constitutionnalisme comparé"
+    },
+    {
+      "titre": "Constitution, article 47 (Légifrance)",
+      "url": null,
+      "niveau": "officiel",
+      "positionnement": "texte constitutionnel"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Que se passe-t-il si l'Assemblée rejette la première partie (recettes) d'un projet de loi de finances ?",
+      "r": "Tout le texte tombe en première lecture ; les amendements adoptés disparaissent et le Sénat reçoit le texte initial du gouvernement."
+    },
+    {
+      "q": "Que prévoit l'article 47 de la Constitution si le budget n'est pas adopté dans les délais ?",
+      "r": "Au bout de **70 jours**, le gouvernement peut mettre en vigueur le budget par **ordonnance**."
+    },
+    {
+      "q": "Qu'est-ce que le parlementarisme rationalisé ?",
+      "r": "Un ensemble de règles (délais, 49.3, ordre du jour) qui encadrent le Parlement pour éviter la paralysie. Notion associée à Boris Mirkine-Guetzévitch."
+    },
+    {
+      "q": "Comment le budget 2026 a-t-il été adopté ?",
+      "r": "Après rejet de la première partie à l'automne 2025 et une loi spéciale, par **49.3** en février 2026, deux motions de censure ayant échoué."
+    }
+  ],
+  "question_reflexion": "Un budget issu d'un débat parlementaire éclaté est-il plus légitime qu'un budget adopté par 49.3 ? Quels critères retiens-tu pour en juger ?",
+  "a_verifier": [
+    "Résultat du vote du 3 novembre 2026 : non connu à la rédaction.",
+    "Chiffres (79-77, 322 amendements, 404-1, échéance du 17 décembre) tirés de NosParlementaires : à recouper avec le compte rendu officiel.",
+    "Positions des groupes (gauche, RN, bloc central) non documentées par des déclarations sourcées.",
+    "Détails de l'article 47 (40/15/70 jours) donnés de mémoire, à relire dans le texte.",
+    "Date et circonstances d'adoption du budget 2026 : recoupées par titres de presse seulement."
+  ]
+}
