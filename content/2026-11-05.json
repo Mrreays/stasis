@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-05",
+  "type": "actu",
+  "parcours": "Institutions et actualité budgétaire",
+  "titre": "Budget 2027 : l'Assemblée rejette les recettes par 458 voix contre zéro",
+  "resume": "Le 4 novembre 2026, les députés ont rejeté à l'unanimité la partie recettes du PLF 2027, qui part au Sénat dans sa version initiale. L'unanimité masque des motifs opposés et ouvre la question du 49.3 ou des ordonnances avant l'échéance du 17 décembre.",
+  "contenu_md": "## Ce qui s'est passé\n\nLe 4 novembre 2026, l'Assemblée nationale a rejeté la première partie (« recettes ») du projet de loi de finances (PLF) pour 2027 par 458 voix contre, aucune pour, selon LCP. La seconde partie (dépenses) n'a donc pas été examinée dans l'hémicycle, et le texte part au Sénat dans la version initiale du gouvernement : les amendements adoptés par les députés tombent avec le rejet.\n\n## Contexte : un rejet attendu, une unanimité trompeuse\n\nLa commission des Finances avait déjà rejeté cette partie avant la séance. Dans l'hémicycle, les députés avaient modifié le texte : suppression de la baisse prévue du plafond de l'abattement fiscal des retraités, abandon de la création de frais d'inscription annuels en classes préparatoires (270 €) et en BTS (178 €), et remise en cause de certaines économies demandées aux collectivités (point jugé ambigu par LCP).\n\nLe ministre du Budget, David Amiel, affirme que le texte ainsi amendé aurait porté le déficit de l'État à 177,1 milliards d'euros, soit 20,7 milliards de plus que le projet initial, et le déficit public de 5 % à 5,9 % du PIB. Le député Nicolas Sansu (GDR) conteste ce chiffrage : c'est donc un fait **contesté**, à ne pas traiter comme une donnée établie.\n\n## Acteurs et positions (sources partisanes)\n\nL'unanimité du vote cache des motifs opposés, et c'est le point central à retenir. Éric Coquerel (LFI), président de la commission des Finances, juge le budget mauvais dès l'origine et accuse le bloc central de s'être allié au Rassemblement national. Estelle Mercier (PS) estime le texte amendé « pas plus digeste » que l'original et regrette le rejet de la taxe Zucman. Philippe Juvin (Droite républicaine) déplore l'absence de mesures structurelles pour la productivité. Jean-Philippe Tanguy (RN) soutient que le budget est écrit par le seul gouvernement, non par le Parlement. Ces déclarations sont des sources primaires partisanes ; elles disent comment chaque camp justifie son vote, pas ce qui s'est réellement passé.\n\n## Enjeux : que se passe-t-il maintenant ?\n\nL'article 47 de la Constitution fixe des délais : 40 jours pour l'Assemblée en première lecture, puis 15 jours pour le Sénat (20 selon la loi organique relative aux lois de finances, la LOLF), soit 70 jours au total. Si le Parlement ne s'est pas prononcé dans ce délai, le gouvernement *peut* (ce n'est pas automatique, rappelle le Club des juristes) mettre en vigueur le projet par ordonnance. D'après LCP, l'échéance tombe le 17 décembre 2026 à minuit.\n\nLe Premier ministre, Sébastien Lecornu, dispose de plusieurs voies : laisser la navette se poursuivre (Sénat puis commission mixte paritaire), engager sa responsabilité par l'article 49.3 sur le texte, ce qui l'expose à une motion de censure, ou attendre l'expiration du délai. Chaque option a un coût politique différent : le 49.3 expose le gouvernement à la censure, les ordonnances exposent le gouvernement à l'accusation de contourner le Parlement.\n\n## Ce que dit la science politique, et ses limites\n\nLes travaux sur le parlementarisme rationalisé de la Ve République montrent que ces dispositifs ont été conçus en 1958 pour empêcher le blocage par un Parlement morcelé, dans l'esprit rappelé dans la leçon du 4 novembre. Mais ils supposaient une majorité nette. Avec une Assemblée sans majorité absolue, les outils prévus pour gouverner malgré le Parlement deviennent des instruments de crise. Il n'existe pas de consensus académique simple sur la question de savoir si cette situation appelle une réforme constitutionnelle, un changement de pratiques (coalitions, négociation) ou un simple retour de majorités : c'est largement un débat de valeurs et de stratégie partisane.\n\n## Ce qui reste incertain\n\nTrois points restent ouverts : la voie que choisira le gouvernement (49.3, navette complète, ordonnances), le contenu que le Sénat donnera au texte, et la fiabilité du chiffrage de 20,7 milliards, contesté par la gauche. Une chose est établie : le vote du 4 novembre est un rejet, pas un compromis ; il signale l'absence de majorité positive, non une convergence entre les oppositions.",
+  "points_cles": [
+    "Le 4 novembre 2026, la partie recettes du PLF 2027 est rejetée par 458 voix contre, aucune pour ; le texte part au Sénat dans sa version initiale.",
+    "Une unanimité négative n'est pas un accord : gauche, droite et RN rejettent pour des raisons contraires.",
+    "L'article 47 prévoit 70 jours au total ; passé ce délai, le gouvernement peut (sans y être tenu) recourir aux ordonnances.",
+    "Le chiffrage du ministre (déficit à 5,9 % du PIB si le texte amendé était adopté) est contesté par la gauche."
+  ],
+  "positions": [
+    {
+      "position": "Gauche (LFI, PS, GDR)",
+      "argument": "Budget jugé injuste et incohérent ; reproche au bloc central et au RN d'avoir écarté la taxe Zucman ; conteste le chiffrage du gouvernement.",
+      "auteurs": [
+        "Éric Coquerel",
+        "Estelle Mercier",
+        "Nicolas Sansu"
+      ]
+    },
+    {
+      "position": "Droite républicaine",
+      "argument": "Le texte manque de garanties budgétaires et de mesures structurelles pour la productivité.",
+      "auteurs": [
+        "Philippe Juvin"
+      ]
+    },
+    {
+      "position": "Rassemblement national",
+      "argument": "Le budget est écrit par le seul gouvernement, qui est accusé de mentir ; le Parlement n'a pas de prise réelle.",
+      "auteurs": [
+        "Jean-Philippe Tanguy"
+      ]
+    },
+    {
+      "position": "Gouvernement",
+      "argument": "Le texte amendé aurait creusé le déficit de 20,7 milliards d'euros (5,9 % du PIB au lieu de 5 %).",
+      "auteurs": [
+        "David Amiel"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "titre": "LCP – Budget 2027 : l'Assemblée rejette à l'unanimité la partie « recettes »",
+      "url": "https://lcp.fr/actualites/budget-2027-l-assemblee-rejette-a-l-unanimite-la-partie-recettes-le-projet-de-loi-de",
+      "niveau": "presse",
+      "positionnement": "Chaîne parlementaire de l'Assemblée nationale ; compte rendu factuel, positions des groupes rapportées."
+    },
+    {
+      "titre": "LCP – « Indigeste », « sans cohérence » : le projet de budget 2027 fait l'unanimité contre lui",
+      "url": "https://lcp.fr/actualites/indigeste-sans-coherence-contradictoire-le-projet-de-budget-2027-largement-modifie-lors",
+      "niveau": "presse",
+      "positionnement": "Même média ; les citations des députés sont des déclarations partisanes."
+    },
+    {
+      "titre": "Constitution du 4 octobre 1958, article 47 (délais d'examen des lois de finances, ordonnances)",
+      "url": null,
+      "niveau": "officiel",
+      "positionnement": "Texte constitutionnel ; source primaire."
+    },
+    {
+      "titre": "Club des juristes – Projet de loi de finances : et si ça coince au Parlement ? (R. Brutinaud, 21/10/2024)",
+      "url": "https://www.leclubdesjuristes.com/politique/projet-de-loi-de-finances-et-si-ca-coince-au-parlement-7370/",
+      "niveau": "think_tank",
+      "positionnement": "Think tank juridique pluraliste, ancré dans le monde des juristes ; analyse non partisane des procédures."
+    },
+    {
+      "titre": "Déclarations de D. Amiel, É. Coquerel, E. Mercier, P. Juvin, J.-P. Tanguy (rapportées par LCP)",
+      "url": null,
+      "niveau": "partisan",
+      "positionnement": "Acteurs politiques : sources primaires partisanes, non des faits établis."
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Quel a été le résultat du vote sur la partie recettes du PLF 2027 à l'Assemblée le 4 novembre 2026 ?",
+      "r": "Rejet par **458 voix contre, aucune pour**. Le texte part au Sénat dans la version initiale du gouvernement."
+    },
+    {
+      "q": "Pourquoi l'unanimité contre la partie recettes du PLF 2027 ne traduit-elle pas un accord entre les groupes ?",
+      "r": "Les groupes rejettent pour des raisons opposées (justice fiscale à gauche, manque de mesures structurelles à droite, critique du gouvernement au RN) : c'est une **majorité négative**, pas un compromis."
+    },
+    {
+      "q": "Quels sont les délais de l'article 47 de la Constitution pour un projet de loi de finances ?",
+      "r": "**40 jours** pour l'Assemblée, **15 jours** pour le Sénat (20 selon la LOLF), **70 jours** au total. Ensuite, le gouvernement *peut* mettre le projet en vigueur par ordonnance."
+    },
+    {
+      "q": "À quelle date expire le délai de 70 jours pour le PLF 2027, selon LCP ?",
+      "r": "Le **17 décembre 2026** à minuit."
+    }
+  ],
+  "question_reflexion": "Pourquoi un rejet unanime d'un budget est-il plus difficile à interpréter qu'un vote d'adoption, et que révèle-t-il du fonctionnement d'une Assemblée sans majorité ?",
+  "a_verifier": [
+    "Date exacte d'expiration du délai de 70 jours (17 décembre 2026 selon LCP) : à recouper avec la date de dépôt du PLF.",
+    "Chiffrage du déficit (177,1 Md€, +20,7 Md€, 5,9 % du PIB) : avancé par le ministre, contesté par la gauche.",
+    "Mesures sur les collectivités : LCP reste ambigu sur ce qui a été abandonné.",
+    "Aucune source académique datée de 2026 consultée : le cadrage académique du dernier paragraphe est général et à compléter.",
+    "Absence éventuelle d'abstentions : le total (458) n'est pas rapproché des 577 sièges."
+  ]
+}
