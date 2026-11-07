@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-07",
+  "type": "synthese",
+  "parcours": "Synthèse de la semaine : scrutin, institutions et budget",
+  "titre": "Scrutin, majorité et Ve République : le fil de la semaine du 2 au 6 novembre 2026",
+  "resume": "Cinq leçons, une idée : la Ve République suppose une majorité claire à l'Assemblée, que le mode de scrutin ne garantit pas, et c'est l'absence de majorité qui fait des outils d'exception (49.3, ordonnances) des instruments ordinaires.",
+  "contenu_md": "## Le fil de la semaine\n\nDu 2 au 6 novembre 2026, cinq leçons semblent traiter de sujets distincts : un mode de scrutin, une actualité budgétaire (deux fois), la naissance de la Ve République et la cohabitation. Elles disent pourtant la même chose : **les règles écrites ne suffisent pas, tout dépend de la majorité que les électeurs produisent à l'Assemblée.**\n\n## Fil 1 : la Constitution de 1958 suppose une majorité\n\nLe 4 novembre, on a vu que la Ve République combine le parlementarisme rationalisé de Debré (délais, ordre du jour, article 49.3) et un président arbitre. Le 6 novembre, la cohabitation a montré que le texte ne dit pas qui gouverne : l'article 20 donne la politique de la nation au gouvernement, mais celui-ci n'existe que tant qu'une majorité de députés ne le renverse pas. Quand président et majorité sont du même camp (le « fait majoritaire »), la lecture présidentielle s'impose ; quand ils divergent, le Premier ministre reprend la main. **Fait établi** : les trois cohabitations (1986-1988, 1993-1995, 1997-2002) ont eu lieu sans modifier le texte.\n\n## Fil 2 : le mode de scrutin fabrique (ou non) cette majorité\n\nLe 2 novembre, la proposition de Duverger a posé que le scrutin conditionne le nombre de partis. Gary Cox (*Making Votes Count*, 1997) a précisé que, dans les systèmes à deux tours, la logique de coordination tend à limiter le nombre de concurrents viables, mais seulement comme **borne supérieure** : le système ne garantit pas, à lui seul, deux blocs ni une majorité. Le scrutin à deux tours français encourage les désistements et les alliances, mais ne force pas la formation d'une majorité unique.\n\n## Fil 3 : quand la majorité manque, les outils de crise deviennent la règle\n\nLes 3 et 5 novembre illustrent la conséquence. Le 4 novembre 2026, l'Assemblée a rejeté à l'unanimité (458 voix contre) la partie recettes du PLF 2027 ; le rejet fait tomber l'ensemble du texte, qui part au Sénat dans sa version initiale (source : LCP, 5 novembre). Selon LCP, le Sénat examinerait le PLF du 20 novembre au 9 décembre ; le gouvernement a ensuite le choix entre commission mixte paritaire, 49.3 (avec le risque d'une motion de censure), ordonnances prévues par l'article 47 ou loi spéciale. Ces dispositifs sont ceux de 1958 : ils ont été conçus pour contourner un Parlement morcelé, dans un cadre où une majorité claire restait la norme.\n\n## Faits, contestations, jugements de valeur\n\n- **Établi** : les procédures (article 47, article 49 alinéa 3), les dates des cohabitations, le résultat 458-0 du 4 novembre.\n- **Contesté** : le chiffrage du déficit si les amendements avaient été conservés (avancé par le ministre du Budget, contesté par la gauche) ; l'ampleur réelle de l'effet du scrutin sur la fragmentation, que la discipline considère comme une tendance et non une loi.\n- **Jugement de valeur** : faut-il préférer un système qui dégage des majorités nettes ou une représentation fidèle des voix ? La science politique éclaire les compromis, elle ne tranche pas.\n\n## À retenir pour réviser\n\nPour comprendre une crise institutionnelle française, pose toujours trois questions dans cet ordre : quel mode de scrutin a produit l'Assemblée ? Existe-t-il une majorité absolue ? Quels outils de la Constitution le gouvernement peut-il alors mobiliser, et à quel coût politique ?",
+  "points_cles": [
+    "Le texte de 1958 ne dit pas qui gouverne : la majorité à l'Assemblée tranche (cohabitations de 1986, 1993, 1997).",
+    "Le scrutin à deux tours encourage les alliances mais ne garantit pas de majorité (Duverger nuancé par Cox).",
+    "Sans majorité absolue, le parlementarisme rationalisé (article 47, 49.3) devient un outil de crise.",
+    "Le rejet unanime (458-0) du 4 novembre 2026 cache des motifs opposés : unanimité ne veut pas dire accord."
+  ],
+  "sources": [
+    {
+      "titre": "Gary W. Cox, Making Votes Count (Cambridge University Press, 1997), chap. 7 « Some concluding comments on strategic voting »",
+      "url": "https://www.cambridge.org/core/books/making-votes-count/some-concluding-comments-on-strategic-voting/B87DD19EE488224A3342DC0ED8DF9955",
+      "niveau": "academique",
+      "positionnement": "Ouvrage universitaire de référence sur la coordination stratégique des électeurs"
+    },
+    {
+      "titre": "Bastien François, Naissance d'une Constitution : la Cinquième République 1958-1962 (Presses de Sciences Po, 1996)",
+      "url": null,
+      "niveau": "academique",
+      "positionnement": "Travail de science politique sur la genèse de la Constitution"
+    },
+    {
+      "titre": "Assemblée nationale : rejet en première lecture du projet de loi de finances pour 2027",
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+      "niveau": "officiel",
+      "positionnement": "Institution parlementaire"
+    },
+    {
+      "titre": "Sénat : dossier du projet de loi de finances pour 2027",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-finances-pour-2027.html",
+      "niveau": "officiel",
+      "positionnement": "Institution parlementaire ; aucune date d'examen publiée sur la page consultée"
+    },
+    {
+      "titre": "LCP : Budget 2027 rejeté, quelles sont les prochaines étapes au Parlement ? (5 novembre 2026)",
+      "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753",
+      "niveau": "presse",
+      "positionnement": "Chaîne parlementaire publique"
+    },
+    {
+      "titre": "Maurice Duverger, Les partis politiques (1951)",
+      "url": null,
+      "niveau": "academique",
+      "positionnement": "Texte fondateur, à lire avec les nuances de Sartori et Cox"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Qu'appelle-t-on le « fait majoritaire » sous la Ve République, et pourquoi est-il décisif ?",
+      "r": "Concordance entre le président et la majorité de l'Assemblée. Elle explique la **lecture présidentielle** du régime ; sans elle (cohabitation), le Premier ministre gouverne."
+    },
+    {
+      "q": "Pourquoi le 49.3 et l'article 47 deviennent-ils des instruments de crise quand il n'y a pas de majorité absolue ?",
+      "r": "Ils ont été conçus en 1958 (parlementarisme rationalisé) pour contourner un Parlement morcelé, en supposant qu'une majorité claire existe normalement. Sans elle, le gouvernement doit négocier ou s'exposer à la censure."
+    },
+    {
+      "q": "Que montre Gary Cox (1997) sur la « loi » de Duverger ?",
+      "r": "Les systèmes tendent à limiter le nombre de concurrents viables (règle **M + 1**), mais seulement comme **borne supérieure** : le scrutin ne garantit pas à lui seul le nombre de partis."
+    },
+    {
+      "q": "Que s'est-il passé à l'Assemblée le 4 novembre 2026 sur le PLF 2027, et quelle en est la conséquence procédurale ?",
+      "r": "La partie recettes a été rejetée par 458 voix contre, sans voix pour (LCP). Tout le texte tombe en première lecture et part au Sénat dans sa version initiale."
+    }
+  ],
+  "question_reflexion": "En t'appuyant sur ces cinq leçons : un mode de scrutin plus proportionnel réduirait-il le recours au 49.3, ou le déplacerait-il ? Explique en trois phrases ce qu'il faudrait savoir pour trancher.",
+  "a_verifier": [
+    "Calendrier sénatorial (PLF du 20 novembre au 9 décembre, PLFSS du 9 au 18 novembre) : donné par LCP le 5 novembre ; la page du Sénat consultée ne publie pas encore de dates.",
+    "Dates limites de l'article 47 (17 décembre pour le PLF, 26 novembre pour le PLFSS selon LCP) : à recouper avec le texte et les décomptes officiels.",
+    "La leçon du 3 novembre mentionnait un vote d'ensemble fixé au 17 novembre : cette date n'est plus cohérente avec le rejet du 4 novembre.",
+    "Interprétation de Cox transposée au cas français à deux tours : lecture de synthèse à recouper dans le chapitre."
+  ]
+}
