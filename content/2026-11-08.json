@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-08",
+  "type": "debat",
+  "parcours": "Comportement électoral / Institutions",
+  "titre": "Faut-il élire les députés à la proportionnelle ?",
+  "resume": "Après une semaine marquée par l'absence de majorité à l'Assemblée, un débat de valeurs : représentation fidèle des voix ou majorité de gouvernement ? Trois positions, des faits établis et ce qui reste contesté.",
+  "contenu_md": "## La question\n\n**Faut-il élire tout ou partie des députés à la proportionnelle ?** La semaine du 2 au 6 novembre 2026 a montré les effets d'une Assemblée sans majorité : rejet des recettes du PLF 2027 par 458 voix contre zéro, recours possible au 49.3 ou aux ordonnances de l'article 47. Ce contexte relance un débat ancien, mais la question reste une question de valeurs : que doit d'abord produire une élection, une représentation fidèle ou une majorité de gouvernement ?\n\n## Le cadre factuel\n\n**Faits établis.** Les députés sont élus au scrutin uninominal majoritaire à deux tours dans 577 circonscriptions. Les modes de scrutin ne figurent pas dans la Constitution : une loi ordinaire suffirait à les changer (Bezzina ; de Montis, Club des juristes). La France a déjà connu la proportionnelle : sous la IIIe République (loi de 1919), puis une proportionnelle départementale adoptée en 1985 pour les législatives de 1986 et abrogée dès 1986. Le Sénat combine déjà les deux logiques selon la taille des départements.\n\n**Écarts voix/sièges.** Grossman et Guinaudeau (*La Vie des idées*, 16 décembre 2025) rapportent notamment 28,2 % des voix au premier tour pour LREM en 2017 contre 53,4 % des sièges, et 33,4 % pour le RN en 2024 contre 24,7 % des sièges. Ils estiment la prime au vainqueur à environ 8 % en moyenne dans les systèmes majoritaires, contre 1 % dans les systèmes proportionnels.\n\n**Position du gouvernement (février 2026).** Interrogé au Sénat par Mélanie Vogel (écologistes), qui évoquait une initiative transpartisane, le ministre de l'Intérieur a répondu qu'il n'y aurait pas d'initiative gouvernementale pour modifier le mode de scrutin, le Premier ministre y étant personnellement opposé. Source officielle, mais déclaration d'un acteur politique.\n\n## Ce qui est contesté\n\nLe consensus académique n'existe pas sur le point central : un mode de scrutin ne détermine pas seul la fragmentation. L'effet de Duverger est une tendance, nuancée par Cox (1997) ; Audrey de Montis rappelle que la dissolution de 2024 a produit, à droit constant, une Assemblée sans majorité absolue. Les effets d'une proportionnelle sur la stabilité gouvernementale dépendent aussi de la culture de compromis et des règles (seuil, taille des circonscriptions, investiture).\n\n## Les trois positions\n\n**1. Proportionnelle (quasi) intégrale.** Argument : la Ve République a été construite pour des majorités nettes, mais le paysage en trois blocs ne les produit plus ; la proportionnelle rendrait l'Assemblée fidèle aux votes et obligerait à négocier des coalitions *après* le scrutin plutôt que des désistements entre deux tours.\n\n**2. Une « dose » de proportionnelle.** Argument : un système mixte (par exemple 25 % de députés élus à la proportionnelle, hypothèse évoquée par la présidente de l'Assemblée) corrigerait une partie des distorsions, avec un seuil pour limiter l'émiettement et conserver le lien avec les territoires.\n\n**3. Maintien du scrutin majoritaire à deux tours.** Argument : il dégage des majorités claires quand les électeurs les produisent, permet une alternance nette, garde un député identifiable par circonscription et évite l'instabilité de la IVe République (gouvernements d'environ 12 mois en moyenne sous la IVe, selon Grossman et Guinaudeau). Les opposants rappellent aussi que le précédent de 1985 a été perçu comme une manœuvre et a fait entrer le FN à l'Assemblée.\n\n## Pour aller plus loin\n\nPowell, *Elections as Instruments of Democracy* (Yale UP, 2000), compare précisément la « vision majoritaire » et la « vision proportionnelle » de la démocratie.\n",
+  "points_cles": [
+    "Le mode de scrutin des législatives peut être changé par une loi ordinaire, sans révision constitutionnelle.",
+    "Le scrutin majoritaire produit des écarts importants entre voix et sièges (ex. LREM 2017 : 28,2 % des voix, 53,4 % des sièges).",
+    "Il n'existe pas de consensus académique établissant qu'un mode de scrutin suffit à produire ou à empêcher une majorité.",
+    "Trois positions : proportionnelle intégrale, dose de proportionnelle, maintien du majoritaire à deux tours."
+  ],
+  "positions": [
+    {
+      "position": "Proportionnelle (quasi) intégrale",
+      "argument": "Le scrutin majoritaire, conçu en 1958 pour dégager des majorités nettes, ne le fait plus dans un paysage en trois blocs ; la proportionnelle représenterait fidèlement les électeurs et déplacerait les compromis après l'élection, dans l'hémicycle, plutôt qu'entre deux tours.",
+      "auteurs": [
+        "Emiliano Grossman",
+        "Isabelle Guinaudeau"
+      ]
+    },
+    {
+      "position": "Dose de proportionnelle (système mixte)",
+      "argument": "Une part de députés élus à la proportionnelle, avec seuil, corrigerait une partie des distorsions tout en préservant les effets stabilisateurs du majoritaire et le lien territorial ; la réforme est juridiquement faisable par la loi ordinaire.",
+      "auteurs": [
+        "Anne-Charlène Bezzina",
+        "Audrey de Montis (présente les arguments)"
+      ]
+    },
+    {
+      "position": "Maintien du scrutin majoritaire à deux tours",
+      "argument": "Il favorise des majorités claires et une alternance lisible, conserve un élu identifiable par circonscription, et la proportionnelle rappelle les difficultés budgétaires de la IVe République ainsi que l'épisode contesté de 1985-1986.",
+      "auteurs": [
+        "Objections rapportées par Bezzina et de Montis ; logique de 1958 décrite par Grossman et Guinaudeau"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Emiliano Grossman et Isabelle Guinaudeau, « La proportionnelle, une urgence démocratique », La Vie des idées (16 décembre 2025)",
+      "url": "https://laviedesidees.fr/La-proportionnelle-une-urgence-democratique",
+      "niveau": "academique",
+      "positionnement": "Essai de politistes, plaidoyer assumé pour la proportionnelle"
+    },
+    {
+      "titre": "Audrey de Montis, « Scrutin proportionnel pour les législatives : pourquoi et comment ? », Club des juristes (22 octobre 2024, mis à jour le 29 avril 2025)",
+      "url": "https://www.leclubdesjuristes.com/politique/scrutin-proportionnel-pour-les-legislatives-pourquoi-et-comment-7376/",
+      "niveau": "think_tank",
+      "positionnement": "Think tank juridique pluraliste ; autrice maîtresse de conférences en droit public"
+    },
+    {
+      "titre": "Anne-Charlène Bezzina, « Proportionnelle : oser la dose », Club des juristes (15 mai 2024, mis à jour le 28 avril 2025)",
+      "url": "https://www.leclubdesjuristes.com/politique/proportionnelle-oser-la-dose-5962/",
+      "niveau": "think_tank",
+      "positionnement": "Think tank juridique pluraliste ; autrice constitutionnaliste, plutôt favorable à une dose"
+    },
+    {
+      "titre": "Sénat : question de Mélanie Vogel sur la proportionnelle et réponse du gouvernement (12 février 2026)",
+      "url": "https://www.senat.fr/questions/base/2026/qSEQ26020704G.html",
+      "niveau": "officiel",
+      "positionnement": "Source institutionnelle ; les prises de position qu'elle rapporte sont partisanes (une sénatrice écologiste, un ministre du gouvernement)"
+    },
+    {
+      "titre": "G. Bingham Powell Jr., Elections as Instruments of Democracy: Majoritarian and Proportional Visions (Yale University Press, 2000)",
+      "url": "https://yalebooks.yale.edu/9780300080162/elections-as-instruments-of-democracy",
+      "niveau": "academique",
+      "positionnement": "Ouvrage de référence de science politique comparée, cité ici comme lecture complémentaire"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Faut-il une révision constitutionnelle pour changer le mode de scrutin des députés en France ?",
+      "r": "Non : le mode de scrutin ne figure pas dans la Constitution, une **loi ordinaire** modifiant le code électoral suffit (Bezzina ; de Montis)."
+    },
+    {
+      "q": "Quelle proportionnelle a été adoptée en 1985 pour les législatives, et que lui est-il arrivé ensuite ?",
+      "r": "Une proportionnelle départementale, appliquée aux législatives de **1986**, puis abrogée en **1986**."
+    }
+  ],
+  "question_reflexion": "Défends en 5 phrases la position qui te paraît la moins convaincante parmi les trois (proportionnelle intégrale, dose de proportionnelle, maintien du majoritaire), en t'appuyant sur au moins un fait établi du texte.",
+  "a_verifier": [
+    "Chiffres voix/sièges (2017, 2024), prime au vainqueur (8 % vs 1 %) et durée moyenne des gouvernements : rapportés par Grossman et Guinaudeau, non recoupés avec les résultats officiels du ministère de l'Intérieur.",
+    "Les arguments de la position 3 sont reconstitués à partir des objections citées par Bezzina et de Montis et de la logique de 1958 décrite par Grossman et Guinaudeau ; aucun texte de défense dédié du majoritaire n'a été lu.",
+    "Ouvrage de Powell cité comme titre uniquement : son contenu n'a pas été consulté ici.",
+    "La mention d'un délai d'un an avant le scrutin pendant lequel le régime électoral ne peut être modifié (rapportée par de Montis) est à confirmer sur le texte du code électoral.",
+    "État du dossier après février 2026 : aucune initiative gouvernementale confirmée ni texte adopté trouvés dans les recherches du 8 novembre 2026."
+  ]
+}
