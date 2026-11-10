@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-10",
+  "type": "actu",
+  "parcours": "Économie politique",
+  "titre": "Smic anticipé et conférence sociale : que change la hausse annoncée le 9 novembre 2026 ?",
+  "resume": "Le 9 novembre 2026, le Premier ministre a annoncé un Smic relevé de 1,6 % dès le 1er décembre et des mesures sur les minima de branche. Syndicats et patronat divergent ; la recherche éclaire l'enjeu Smic–allègements de cotisations.",
+  "contenu_md": "## Contexte\n\nLe 9 novembre 2026, à l'issue d'une « conférence sociale » réunissant à Matignon le gouvernement, le patronat et les syndicats du secteur privé, le Premier ministre Sébastien Lecornu a annoncé une série de mesures censées répondre aux revendications salariales exprimées dans la rue depuis la mi-septembre (Reuters, Public Sénat). La mesure centrale est une revalorisation **anticipée de 1,6 % du Smic au 1er décembre 2026**, qui le porterait de 1 477,93 € à environ 1 502 € net mensuels selon Public Sénat. Le gouvernement la présente comme « la deuxième hausse la plus importante en vingt ans » (déclaration de Lecornu, source gouvernementale donc partisane).\n\nPour comprendre l'enjeu, il faut rappeler le mécanisme. Le Smic est revalorisé automatiquement chaque 1er janvier : l'indexation combine l'inflation constatée pour les ménages du premier quintile de revenus et la moitié du gain de pouvoir d'achat du salaire horaire de base des ouvriers et employés (France Stratégie, rapport du groupe d'experts sur le Smic). Le gouvernement peut en outre décider un « coup de pouce » discrétionnaire, ou avancer la date de la hausse, comme en novembre 2024. Le groupe d'experts du Smic, qui rend un rapport annuel, recommande de façon récurrente de s'en tenir à la seule règle automatique, en invoquant le risque pour l'emploi peu qualifié.\n\n## Ce qui a été annoncé\n\nOutre le Smic, les annonces rapportées par Reuters et Public Sénat comprennent : un appel aux branches à rouvrir leurs négociations salariales (la moitié n'auraient pas renégocié leurs grilles depuis dix ans et 69 afficheraient des minima inférieurs au Smic, selon Public Sénat) ; un décret conditionnant les allègements généraux de cotisations patronales au respect de minima de branche effectifs ; un comité de suivi des salaires ; et, par amendements au projet de loi de finances 2027, l'extension de la prime de partage de la valeur aux entreprises de plus de 50 salariés, le relèvement du plafond de défiscalisation des heures supplémentaires de 7 500 à 10 000 €, la prolongation de la prise en charge des transports à 75 % et le maintien à 1 000 € du plafond de la prime carburant.\n\n## Acteurs et positions\n\nLa **CGT** (Sophie Binet) rejette l'annonce, parle de « miettes » et affirme que 18 des 23 € de hausse relèvent de la revalorisation de janvier déjà acquise, le coup de pouce ne pesant que 5 € ; elle appelle à la grève et à manifester le 17 novembre, avec l'intersyndicale de la fonction publique. La **CFDT** (Marylise Léon) juge la mesure « une bonne chose » mais insuffisante, tout en saluant la logique de conditionnalité des aides aux entreprises. Selon Public Sénat, la CFDT demandait 100 € nets par mois et la CGT 10 %. Côté patronal, les Entrepreneurs (ex-CPME) demandent que les minima de branche suivent mais alertent sur l'accumulation des contraintes ; l'U2P y voit une contrainte supplémentaire en période de ralentissement. Ces positions sont toutes des déclarations d'acteurs : elles disent les intérêts de chacun, pas des faits établis.\n\n## Enjeux : ce que dit la recherche\n\nLa note n° 91 du Conseil d'analyse économique (Bozio et Wasmer, juin 2026) donne un cadre utile. Elle établit que, grâce aux allègements de cotisations (environ 74 milliards d'euros en 2026), le coût du travail au Smic est passé d'environ 57 % du salaire médian au début des années 1990 à environ 44 % en 2023, et que le revenu disponible au Smic atteint environ 72 % du médian, l'un des plus élevés de l'OCDE. Elle identifie aussi une « trappe » à progression salariale : au-dessus du Smic, les allègements et certaines prestations s'estompent, si bien que 100 € de revenu disponible supplémentaire peuvent coûter 300 à 400 € à l'employeur. Les auteurs en tirent une recommandation (désindexer progressivement les allègements généraux, examiner ensemble Smic et allègements), qui est une analyse d'économistes et non un consensus entre tous les spécialistes : le groupe d'experts du Smic, lui, a déjà estimé qu'une hausse des allègements de quatre points détruirait 100 000 à 135 000 emplois, chiffre que la CGT conteste régulièrement.\n\nLe lien avec la décision du 9 novembre est direct : l'effort demandé aux branches et le décret sur les allègements touchent précisément à ce nœud entre Smic, minima de branche et coût du travail.\n\n## Ce qui est incertain\n\nLe coût budgétaire des mesures n'est pas chiffré dans les sources consultées, alors que le déficit est de 5,4 % du PIB et la dette d'environ 120 % selon Public Sénat. Le vote des amendements au PLF 2027 dépend d'une Assemblée qui a rejeté la partie recettes le 4 novembre et d'un calendrier où le Sénat examine le budget du 20 novembre au 9 décembre (LCP). On ignore aussi si la mobilisation du 17 novembre sera massive, ni si elle infléchira le gouvernement. Enfin, les 18 € « déjà acquis » avancés par la CGT sont une estimation syndicale à recouper avec le calcul officiel de l'indexation de janvier 2027.",
+  "points_cles": [
+    "Annonce du 9 novembre 2026 : Smic +1,6 % au 1er décembre, soit environ 1 502 € net mensuels (Public Sénat).",
+    "Le Smic est déjà indexé automatiquement chaque 1er janvier ; la part discrétionnaire (le « coup de pouce ») est ce qui fait débat, la CGT la chiffrant à 5 €.",
+    "Le gouvernement lie les allègements de cotisations patronales au respect de minima de branche effectifs, ce qui touche à la « trappe à bas salaires » décrite par le CAE.",
+    "La CGT et l'intersyndicale de la fonction publique appellent à la grève le 17 novembre 2026 ; la CFDT juge la hausse bonne mais insuffisante."
+  ],
+  "positions": [
+    {
+      "position": "Hausse insuffisante, il faut davantage et durablement",
+      "argument": "Pour la CGT, la part réellement nouvelle ne représente que 5 € et les salaires ont décroché ; la CFDT réclamait 100 € nets mensuels. Positions syndicales, donc partisanes.",
+      "auteurs": [
+        "Sophie Binet (CGT)",
+        "Marylise Léon (CFDT)"
+      ]
+    },
+    {
+      "position": "Prudence : le coût du travail et l'emploi peu qualifié d'abord",
+      "argument": "Les organisations patronales invoquent des marges limitées et la conjoncture ; le groupe d'experts du Smic recommande de s'en tenir à la règle automatique pour ne pas pénaliser l'emploi peu qualifié.",
+      "auteurs": [
+        "Amir Reza-Tofighi (Les Entrepreneurs)",
+        "Michel Picon (U2P)",
+        "Groupe d'experts sur le Smic"
+      ]
+    },
+    {
+      "position": "Traiter ensemble Smic, allègements et négociation de branche",
+      "argument": "Selon le CAE, le problème n'est pas tant le niveau du Smic que la trappe à progression salariale au-dessus ; il recommande de désindexer progressivement les allègements.",
+      "auteurs": [
+        "Antoine Bozio",
+        "Étienne Wasmer"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "titre": "France : les mesures du gouvernement pour répondre aux revendications sociales (Reuters, 9 novembre 2026)",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/france-les-mesures-du-gouvernement-pour-repondre-aux-revendications-sociales-154a006dadd03f684b67f4fea8baad31",
+      "niveau": "presse",
+      "positionnement": "Agence de presse, dépêche factuelle"
+    },
+    {
+      "titre": "Pouvoir d'achat : Sébastien Lecornu annonce une hausse anticipée du Smic à 1 502 euros par mois dès le 1er décembre (Public Sénat)",
+      "url": "https://www.publicsenat.fr/actualites/politique/pouvoir-dachat-sebastien-lecornu-annonce-une-hausse-anticipee-du-smic-a-1-502-euros-des-le-1er-decembre",
+      "niveau": "presse",
+      "positionnement": "Chaîne parlementaire publique"
+    },
+    {
+      "titre": "Hausse du Smic : les syndicats jugent la réponse insuffisante et la CGT appelle à la grève le 17 novembre (Public Sénat)",
+      "url": "https://www.publicsenat.fr/actualites/politique/hausse-du-smic-les-syndicats-jugent-la-reponse-insuffisante-et-la-cgt-appelle-a-la-greve-le-17-novembre",
+      "niveau": "presse",
+      "positionnement": "Chaîne parlementaire publique ; déclarations syndicales et patronales rapportées"
+    },
+    {
+      "titre": "Conseil d'analyse économique, note n° 91 : Quelles stratégies pour l'emploi et les salaires ? (Bozio, Wasmer, juin 2026)",
+      "url": "https://cae-eco.fr/quelles-strategies-pour-lemploi-et-les-salaires-communique-de-presse",
+      "niveau": "academique",
+      "positionnement": "Organisme d'économistes placé auprès du Premier ministre ; analyse indépendante mais institutionnelle"
+    },
+    {
+      "titre": "France Stratégie : rapport 2024 du groupe d'experts sur le Smic",
+      "url": "https://www.strategie-plan.gouv.fr/publications/groupe-dexperts-smic-rapport-2024",
+      "niveau": "officiel",
+      "positionnement": "Experts nommés par le gouvernement ; recommandations jugées restrictives par la CGT"
+    },
+    {
+      "titre": "LCP : Budget 2027 rejeté, quelles sont les prochaines étapes au Parlement ?",
+      "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753",
+      "niveau": "presse",
+      "positionnement": "Chaîne parlementaire de l'Assemblée nationale"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Qu'a annoncé le Premier ministre Sébastien Lecornu le 9 novembre 2026 sur le Smic ?",
+      "r": "Une revalorisation **anticipée de 1,6 % au 1er décembre 2026**, portant le Smic à environ 1 502 € net mensuels, un mois avant la revalorisation automatique de janvier."
+    },
+    {
+      "q": "Comment le Smic est-il revalorisé automatiquement chaque 1er janvier ?",
+      "r": "Par l'inflation constatée pour les ménages du premier quintile de revenus, plus la moitié du gain de pouvoir d'achat du salaire horaire de base des ouvriers et employés (France Stratégie)."
+    },
+    {
+      "q": "Qu'appelle-t-on la « trappe à bas salaires » selon la note n° 91 du CAE (Bozio et Wasmer, 2026) ?",
+      "r": "Le fait qu'au-dessus du Smic, les allègements de cotisations et certaines prestations s'estompent : 100 € de revenu disponible en plus peuvent coûter 300 à 400 € à l'employeur, ce qui décourage les augmentations."
+    },
+    {
+      "q": "Quelle condition le gouvernement veut-il imposer aux allègements généraux de cotisations patronales, d'après l'annonce du 9 novembre 2026 ?",
+      "r": "Les lier au respect de **minima de branche effectifs** (supérieurs au Smic), via un décret annoncé ; l'objectif est d'inciter les branches à renégocier leurs grilles."
+    }
+  ],
+  "question_reflexion": "Faut-il privilégier une hausse discrétionnaire du Smic ou des mesures visant la progression salariale au-dessus du Smic ? Quelles données t'aideraient à trancher ?",
+  "a_verifier": [
+    "Montant de 1 502 € : Reuters/Boursorama ne précise pas brut ou net, Public Sénat parle de net ; à recouper avec le décret officiel.",
+    "Le chiffre de la CGT (18 € déjà acquis par l'indexation de janvier, 5 € de coup de pouce) est une estimation syndicale non recoupée.",
+    "Coût budgétaire des mesures non chiffré dans les sources consultées.",
+    "Statut juridique exact de l'anticipation (décret ou autre) et date de publication non vérifiés.",
+    "Le CAE est rattaché au Premier ministre : la qualification « académique » vaut pour l'expertise des auteurs, pas pour une revue à comité de lecture."
+  ]
+}
