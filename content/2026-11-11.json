@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-11",
+  "type": "notion",
+  "parcours": "Institutions",
+  "sujet_curriculum": "Le Conseil constitutionnel, le contrôle de constitutionnalité et la QPC",
+  "titre": "Le Conseil constitutionnel : de gardien du Parlement à juge des libertés",
+  "resume": "Conçu en 1958 pour encadrer le Parlement, le Conseil constitutionnel est devenu un juge des droits et libertés avec la décision de 1971, la saisine par 60 parlementaires (1974) et la QPC (2010). Sa légitimité démocratique reste débattue.",
+  "contenu_md": "Une loi votée par le Parlement peut-elle être écartée parce qu'elle viole la Constitution ? Dans la tradition française issue de la Révolution, la loi, expression de la volonté générale, ne se discutait guère. Le Conseil constitutionnel, créé en 1958, a progressivement changé cette donne. Cette leçon retrace comment, puis explique le contrôle *a priori* et la question prioritaire de constitutionnalité (QPC), et termine sur le débat que cette évolution suscite.\n\n## 1958 : un organe conçu pour encadrer le Parlement\n\nÀ l'origine, le Conseil constitutionnel est un gardien des frontières entre pouvoirs plus qu'un protecteur des droits. Le texte de 1958 lui confie le contrôle obligatoire des lois organiques et des règlements des assemblées (article 61, alinéa 1) et le contrôle facultatif des lois ordinaires, avant leur promulgation. Seuls quatre acteurs peuvent alors le saisir : le Président de la République, le Premier ministre et les présidents des deux assemblées. La lecture classique de la doctrine y voit un instrument du **parlementarisme rationalisé** (voir la leçon du 9 novembre) : il aide à faire respecter le domaine de la loi et les règles de procédure.\n\nLa composition est fixée par l'article 56 : neuf membres, au mandat de neuf ans non renouvelable, renouvelés par tiers tous les trois ans. Trois sont nommés par le Président de la République, trois par le président de l'Assemblée nationale, trois par celui du Sénat. Les anciens Présidents de la République en font partie de droit et à vie. Le texte n'exige aucune qualification juridique des membres, ce qui alimente régulièrement la discussion (voir plus bas). Depuis la révision de 2008, les nominations sont soumises à l'avis d'une commission parlementaire ; pour le Président de la République, l'avis négatif de trois cinquièmes des suffrages exprimés dans les deux commissions réunies bloque la nomination (procédure de l'article 13).\n\n## 1971 et 1974 : de gardien des frontières à juge des libertés\n\nLe 16 juillet 1971, dans la décision sur la liberté d'association (n° 71-44 DC), le Conseil censure une disposition d'une loi en se fondant sur le Préambule de la Constitution de 1958. Ce Préambule renvoie à la Déclaration des droits de l'homme de 1789 et au Préambule de 1946 : ces textes entrent dans ce que l'on appelle le **bloc de constitutionnalité**. Le Conseil peut désormais censurer une loi non seulement pour vice de procédure ou de compétence, mais pour atteinte à des droits et libertés. C'est le tournant juridictionnel.\n\nLe 29 octobre 1974, la révision constitutionnelle ouvre la saisine à **soixante députés ou soixante sénateurs**. L'opposition peut dès lors contester une loi devant le Conseil avant sa promulgation. Selon le constitutionnaliste Pascal Jan, cité par Public Sénat, la réforme n'aurait sans doute pas eu lieu sans la décision de 1971. Dans la pratique, la saisine par des parlementaires devient courante, et le Conseil se retrouve régulièrement au centre de la vie politique.\n\nUne limite structurante demeure : par sa décision du 15 janvier 1975 (n° 74-54 DC), le Conseil se refuse à contrôler la conformité des lois aux traités internationaux (contrôle de **conventionnalité**). Ce contrôle revient aux juges ordinaires, administratif et judiciaire, pas à lui.\n\n## 2008-2010 : le contrôle a posteriori, la QPC\n\nJusqu'en 2010, le contrôle était uniquement *a priori*, avant promulgation. Une loi promulguée ne pouvait plus être contestée devant lui, même si elle portait atteinte aux libertés. La révision constitutionnelle du 23 juillet 2008 introduit l'article 61-1 ; la procédure est entrée en vigueur le **1er mars 2010**.\n\nLe principe : à l'occasion d'un procès, une partie soutient qu'une disposition législative applicable au litige porte atteinte aux droits et libertés garantis par la Constitution. La juridiction vérifie le caractère sérieux de la question et la transmet, si elle l'estime fondée, au Conseil d'État ou à la Cour de cassation. Cette juridiction suprême joue le rôle de **filtre** et dispose de trois mois pour décider du renvoi. Le Conseil constitutionnel a alors lui-même trois mois pour statuer. Trois conditions principales sont examinées : la disposition doit être applicable au litige, ne pas avoir déjà été déclarée conforme (sauf changement de circonstances), et la question doit être nouvelle ou sérieuse.\n\nL'effet est puissant. Selon l'article 62, une disposition déclarée inconstitutionnelle par QPC est **abrogée** à compter de la publication de la décision, ou d'une date ultérieure fixée par le Conseil, qui peut aussi encadrer la remise en cause des effets passés. La décision vaut pour tous (*erga omnes*) et ne peut faire l'objet d'aucun recours. Le Conseil peut ainsi reporter l'abrogation pour laisser le temps au législateur de voter une nouvelle loi. Autre exemple fréquemment cité : la décision sur la garde à vue du 30 juillet 2010, l'une des premières grandes QPC.\n\n## Un contrôle qui fait débat\n\n**Ce qui est établi.** Le Conseil exerce depuis 1971 un contrôle des libertés ; la QPC a ouvert la voie aux justiciables ; ses décisions s'imposent à toutes les autorités. **Ce qui est contesté.** Faut-il y voir une véritable cour constitutionnelle ou un organe encore politique ? La doctrine est partagée : une partie des juristes met en avant la juridictionnalisation (procédure contradictoire, motivation, publicité des débats en QPC), une autre souligne la composition (nominations politiques, anciens Présidents de droit, pas d'exigence de qualification juridique). **Ce qui relève des valeurs.** Jusqu'où des juges non élus peuvent-ils censurer la loi du Parlement ? C'est une question de philosophie politique, sur laquelle il n'y a pas de réponse empirique unique, et c'est pourquoi les deux positions sont présentées ci-dessous sans être tranchées.",
+  "points_cles": [
+    "Article 56 : neuf membres, mandat de neuf ans non renouvelable, renouvelés par tiers ; trois nommés par le Président de la République, trois par le président de l'Assemblée, trois par celui du Sénat, plus les anciens Présidents de la République de droit.",
+    "Le 16 juillet 1971 (liberté d'association), le Conseil intègre le Préambule, la Déclaration de 1789 et le Préambule de 1946 au bloc de constitutionnalité ; la révision du 29 octobre 1974 permet la saisine par 60 députés ou 60 sénateurs.",
+    "Depuis le 1er mars 2010, la QPC (article 61-1) permet à un justiciable de contester une loi déjà promulguée, après un filtre du Conseil d'État ou de la Cour de cassation (3 mois), puis 3 mois pour le Conseil.",
+    "Une disposition censurée par QPC est abrogée (article 62), avec effet pour tous ; la nature du Conseil (cour ou organe politique) et sa légitimité restent débattues."
+  ],
+  "positions": [
+    {
+      "position": "Le Conseil est devenu une véritable juridiction constitutionnelle, légitime et nécessaire",
+      "argument": "La protection des droits suppose qu'un juge puisse écarter une loi qui les viole, y compris votée par une majorité. Le contrôle (1971, 1974, QPC) a installé une procédure motivée et ouverte aux justiciables, comme dans d'autres démocraties.",
+      "auteurs": [
+        "Louis Favoreu",
+        "Dominique Rousseau"
+      ]
+    },
+    {
+      "position": "Le contrôle de constitutionnalité pose un problème de légitimité démocratique (« gouvernement des juges »)",
+      "argument": "Des juges non élus, dont la nomination est politique et sans exigence de qualification juridique, peuvent écarter des choix du Parlement élu ; le risque est que l'interprétation de formules ouvertes (liberté, égalité) devienne un choix politique déguisé.",
+      "auteurs": [
+        "Édouard Lambert (concept de « gouvernement des juges », 1921)"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Constitution du 4 octobre 1958, texte intégral en vigueur (articles 56, 61, 61-1, 62), Conseil constitutionnel",
+      "url": "https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur",
+      "niveau": "officiel",
+      "positionnement": "Texte de référence, sans interprétation"
+    },
+    {
+      "titre": "Conseil constitutionnel : La question prioritaire de constitutionnalité (présentation de la procédure)",
+      "url": "https://www.conseil-constitutionnel.fr/les-membres/la-question-prioritaire-de-constitutionnalite",
+      "niveau": "officiel",
+      "positionnement": "Présentation par l'institution elle-même, donc favorable à son rôle"
+    },
+    {
+      "titre": "Conseil d'État : Questions prioritaires de constitutionnalité (procédure et conséquences)",
+      "url": "https://www.conseil-etat.fr/decisions-de-justice/qpc-et-questions-a-la-cjue/questions-prioritaires-de-constitutionnalite",
+      "niveau": "officiel",
+      "positionnement": "Juridiction filtrante, description procédurale"
+    },
+    {
+      "titre": "Cour de cassation : La question prioritaire de constitutionnalité (rôle de juge du filtre, masterclass d'un magistrat de la Cour)",
+      "url": "https://www.courdecassation.fr/la-cour/les-procedures-devant-la-cour-de-cassation/la-question-prioritaire-de-constitutionnalite",
+      "niveau": "officiel",
+      "positionnement": "Point de vue de l'institution filtrante, magistrat en poste"
+    },
+    {
+      "titre": "Public Sénat : Saisine du Conseil constitutionnel, pourquoi Giscard a-t-il donné plus de pouvoirs à l'opposition ?",
+      "url": "https://www.publicsenat.fr/actualites/politique/saisine-du-conseil-constitutionnel-pourquoi-giscard-a-t-il-donne-plus-de",
+      "niveau": "presse",
+      "positionnement": "Média parlementaire, couverture factuelle ; cite le constitutionnaliste Pascal Jan"
+    },
+    {
+      "titre": "Revue du droit public, 2012/3, p. 607 : article sur les décisions de la Cour de cassation et du Conseil d'État en QPC deux ans après l'entrée en vigueur",
+      "url": "https://droit.cairn.info/revue-revue-du-droit-public-2012-3-page-607?lang=fr",
+      "niveau": "academique",
+      "positionnement": "Revue juridique à comité de lecture ; auteur à vérifier"
+    },
+    {
+      "titre": "Louis Favoreu et al., Droit constitutionnel (Dalloz) et Droit du contentieux constitutionnel (Dominique Rousseau, LGDJ)",
+      "url": null,
+      "niveau": "academique",
+      "positionnement": "Manuels de référence, favorables à la lecture juridictionnelle du Conseil"
+    },
+    {
+      "titre": "Édouard Lambert, Le gouvernement des juges et la lutte contre la législation sociale aux États-Unis (1921)",
+      "url": null,
+      "niveau": "academique",
+      "positionnement": "Ouvrage classique à l'origine de l'expression « gouvernement des juges » ; critique du contrôle de constitutionnalité"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Comment le Conseil constitutionnel est-il composé selon l'article 56 de la Constitution de 1958 ?",
+      "r": "**9 membres**, mandat de **9 ans non renouvelable**, renouvelés par tiers tous les 3 ans : 3 nommés par le Président de la République, 3 par le président de l'Assemblée nationale, 3 par le président du Sénat. S'y ajoutent, de droit et à vie, les anciens Présidents de la République."
+    },
+    {
+      "q": "Quelle décision du Conseil constitutionnel, rendue le 16 juillet 1971, a élargi son rôle ?",
+      "r": "La décision sur la **liberté d'association** (n° 71-44 DC) : le Conseil censure une loi en s'appuyant sur le Préambule de 1958, ce qui fait entrer la Déclaration de 1789 et le Préambule de 1946 dans le **bloc de constitutionnalité**."
+    },
+    {
+      "q": "Qu'a changé la révision constitutionnelle du 29 octobre 1974 pour la saisine du Conseil constitutionnel ?",
+      "r": "Elle permet à **60 députés ou 60 sénateurs** de saisir le Conseil avant la promulgation d'une loi. Avant, seuls le Président de la République, le Premier ministre et les présidents des deux assemblées le pouvaient."
+    },
+    {
+      "q": "Par quelle voie une QPC arrive-t-elle devant le Conseil constitutionnel (article 61-1) ?",
+      "r": "Elle est soulevée par une partie lors d'un procès, examinée par la juridiction, puis transmise au **Conseil d'État** ou à la **Cour de cassation**, qui filtrent et décident du renvoi en **3 mois**. Le Conseil constitutionnel dispose ensuite de **3 mois** pour statuer. Procédure en vigueur depuis le 1er mars 2010."
+    }
+  ],
+  "question_reflexion": "Des juges non élus devraient-ils pouvoir abroger une loi votée par le Parlement ? Défendez en quelques phrases la position qui vous paraît la moins convaincante, en vous appuyant sur un argument de la leçon.",
+  "a_verifier": [
+    "La saisine du Conseil constitutionnel par le président du Sénat dans l'affaire de 1971 (n° 71-44 DC) n'est pas citée dans la leçon ; à vérifier si on veut la détailler.",
+    "Les proportions de décisions QPC (environ 50 % de conformité, 35 % de non-conformité, 15 % de non-lieu) figurent sur le site du Conseil sans date de référence claire : non reprises dans la leçon.",
+    "Le taux de renvoi à environ 15 % (2010-2019) est avancé par un magistrat de la Cour de cassation : non repris, à recouper avec les statistiques annuelles du Conseil.",
+    "Le rattachement de la formule « le Conseil se retrouve au centre de la vie politique » à une analyse politiste précise reste à documenter ; c'est une appréciation générale.",
+    "Le détail de l'attribution des idées de Favoreu et Rousseau est schématique : leurs positions respectives ne sont pas identiques et mériteraient une lecture directe."
+  ]
+}
