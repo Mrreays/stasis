@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-15",
+  "type": "debat",
+  "parcours": "Économie politique",
+  "titre": "Smic : règle automatique ou coup de pouce politique ?",
+  "resume": "Après l'annonce du 9 novembre 2026 d'une hausse anticipée du Smic, un débat de valeurs et d'estimations : indexation seule, revalorisation assumée, ou réforme du système Smic–allègements. Faits établis, faits contestés et trois positions.",
+  "contenu_md": "Le 9 novembre 2026, le Premier ministre a annoncé une revalorisation anticipée de 1,6 % du Smic au 1er décembre 2026 (voir la leçon du 10 novembre). La question de fond, elle, dépasse cette mesure : **faut-il laisser le Smic évoluer selon la seule règle automatique, ou l'État doit-il le relever par décision politique (« coup de pouce ») ?** C'est un débat où des chiffres se croisent avec un jugement de valeur sur ce que doit garantir un salaire minimum.\n\n## Le cadre factuel\n\n**Faits établis.** Le Smic est revalorisé chaque 1er janvier selon une règle légale : inflation constatée pour les ménages du premier quintile de revenus, plus la moitié du gain de pouvoir d'achat du salaire horaire de base des ouvriers et employés (France Stratégie). Le gouvernement peut ajouter un coup de pouce discrétionnaire ou avancer la date, comme en novembre 2024 et en novembre 2026. Selon l'Institut de l'Entreprise (note de mai 2026), environ 3,5 millions de salariés (17,3 %) étaient payés au Smic en 2023. Des allègements généraux de cotisations patronales, concentrés sous 1,6 Smic, réduisent fortement le coût du travail au niveau du Smic : de l'ordre de 74 milliards d'euros par an selon la Fondation Jean-Jaurès pour 2023 et le CAE pour 2026.\n\n**Faits contestés.** L'effet d'une hausse du Smic sur l'emploi peu qualifié. Il n'existe pas de consensus académique chiffré en France : les estimations varient selon les modèles (l'Institut de l'Entreprise s'appuie sur le modèle Mésange, soit environ 12 500 emplois perdus par milliard d'euros de coût du travail supplémentaire ; l'OFCE, cité par la Fondation Jean-Jaurès, chiffre à environ 322 000 emplois détruits une hausse de 12 % avant effets de la consommation et des allègements, et à environ 29 000 la perte nette après ces effets). Ces ordres de grandeur ne sont pas comparables entre eux sans connaître les hypothèses de chacun.\n\n**Jugements de valeur.** Quel niveau de vie un travailleur à temps plein doit-il pouvoir atteindre ? Faut-il accepter un risque, même faible, pour l'emploi des moins qualifiés au nom du pouvoir d'achat de ceux qui travaillent ? Qui doit en payer le coût : entreprises, budget de l'État, consommateurs ? Aucune donnée ne tranche ces questions.\n\n## Les trois positions\n\n**1. Règle automatique, coup de pouce rare.** Le Smic est déjà élevé en comparaison internationale, et la hausse relève surtout du coût pour l'employeur, que les allègements ont en partie masqué. L'Institut de l'Entreprise (think tank patronal, favorable à l'économie de marché) souligne que le Smic a progressé d'environ 37 % en termes réels depuis 2000 pour une productivité horaire d'environ 20 %. Le groupe d'experts sur le Smic recommande de façon récurrente de s'en tenir à la règle.\n\n**2. Revalorisation politique assumée.** La règle automatique protège contre l'inflation mais ne corrige ni la pauvreté en emploi ni les écarts avec les salaires médians. La Fondation Jean-Jaurès (plutôt à gauche) propose un Smic net de 1 600 euros par paliers, accompagné d'une réduction des exonérations au-dessus de 1,6 Smic, en s'appuyant sur les estimations de perte nette d'emplois jugées faibles par l'OFCE.\n\n**3. Traiter le système Smic–allègements–prestations plutôt que le seul Smic.** La note n° 91 du Conseil d'analyse économique (Bozio et Wasmer, juin 2026) analyse une « trappe » à progression salariale : au-dessus du Smic, la perte d'allègements et de prestations fait que 100 € de revenu disponible en plus peuvent coûter 300 à 400 € à l'employeur. Elle recommande d'examiner ensemble Smic et allègements, sans se prononcer pour ou contre un coup de pouce isolé.\n\n## À retenir\n\nLes désaccords portent à la fois sur des estimations (modèles, élasticités) et sur des priorités (emploi des moins qualifiés ou niveau de vie de ceux qui travaillent). Les déclarations syndicales et patronales sont des sources partisanes : elles disent des intérêts, pas des faits établis.",
+  "points_cles": [
+    "Le Smic est indexé chaque 1er janvier (inflation du premier quintile + moitié du gain de pouvoir d'achat du salaire horaire ouvrier-employé) ; un coup de pouce est une décision discrétionnaire.",
+    "Les estimations de l'effet d'une hausse sur l'emploi peu qualifié divergent fortement selon les modèles : il n'y a pas de consensus chiffré.",
+    "Les allègements généraux (environ 74 Md€) changent la lecture : le coût pour l'employeur et le revenu du salarié ne varient pas dans les mêmes proportions.",
+    "Trois positions : règle seule, hausse politique assumée, réforme conjointe du Smic et des allègements."
+  ],
+  "positions": [
+    {
+      "position": "Règle automatique, coup de pouce exceptionnel",
+      "argument": "Le Smic a nettement progressé en termes réels depuis 2000, plus vite que la productivité horaire ; une hausse discrétionnaire accroît le coût du travail peu qualifié et le risque pour l'emploi, d'autant que la croissance est faible. L'indexation protège déjà le pouvoir d'achat.",
+      "auteurs": [
+        "Institut de l'Entreprise (note de mai 2026)",
+        "Groupe d'experts sur le Smic (France Stratégie)"
+      ]
+    },
+    {
+      "position": "Revalorisation politique assumée",
+      "argument": "La règle automatique ne corrige pas la pauvreté en emploi ni l'écart avec le salaire médian ; les pertes nettes d'emplois estimées après effets sur la consommation et les allègements seraient limitées, et une hausse rendrait plus attractifs les métiers en tension.",
+      "auteurs": [
+        "Paul Delostal et Simon-Pierre Sengayrac (Fondation Jean-Jaurès, 2024)",
+        "OFCE (cité par la Fondation Jean-Jaurès)"
+      ]
+    },
+    {
+      "position": "Réformer ensemble Smic, allègements et prestations",
+      "argument": "Le vrai nœud est la trappe à bas salaires créée par l'extinction des allègements et des prestations au-dessus du Smic ; décider du seul Smic revient à traiter un symptôme.",
+      "auteurs": [
+        "Antoine Bozio et Étienne Wasmer (CAE, note n° 91, juin 2026)"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Conseil d'analyse économique, note n° 91 : Quelles stratégies pour l'emploi et les salaires ? (Bozio, Wasmer, juin 2026)",
+      "url": "https://cae-eco.fr/quelles-strategies-pour-lemploi-et-les-salaires-communique-de-presse",
+      "niveau": "academique",
+      "positionnement": "Organisme d'économistes placé auprès du Premier ministre ; analyse indépendante mais institutionnelle"
+    },
+    {
+      "titre": "France Stratégie : rapport 2024 du groupe d'experts sur le Smic",
+      "url": "https://www.strategie-plan.gouv.fr/publications/groupe-dexperts-smic-rapport-2024",
+      "niveau": "officiel",
+      "positionnement": "Experts nommés par le gouvernement ; recommandations jugées restrictives par la CGT"
+    },
+    {
+      "titre": "Institut de l'Entreprise, « Hausse du SMIC sans productivité » (note de contexte, 25 mai 2026)",
+      "url": "https://www.institut-entreprise.fr/wp-content/uploads/2026/06/Effet-dune-hausse-du-SMIC-et-du-cout-du-travail-Note-de-contexte-IDEP.pdf",
+      "niveau": "think_tank",
+      "positionnement": "Think tank proche des grandes entreprises, plutôt libéral ; extrapolations d'élasticités moyennes, non des prévisions"
+    },
+    {
+      "titre": "Delostal et Sengayrac, « Pour une hausse progressive du Smic jusqu'à 1600 euros accompagnée d'une réduction des exonérations sociales », Fondation Jean-Jaurès (16 septembre 2024)",
+      "url": "https://www.jean-jaures.org/publication/pour-une-hausse-progressive-du-smic-jusqua-1600-euros-accompagnee-dune-reduction-des-exonerations-sociales/",
+      "niveau": "think_tank",
+      "positionnement": "Fondation plutôt de gauche, plaidoyer assumé pour la hausse"
+    },
+    {
+      "titre": "Cette, Chouard et Verdugo, « Les effets des hausses du Smic sur le salaire moyen », Économie et Statistique n° 448-449 (2011)",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/1377686/ES448A.pdf",
+      "niveau": "academique",
+      "positionnement": "Revue de l'Insee ; étudie l'effet sur les salaires moyens, pas sur l'emploi"
+    },
+    {
+      "titre": "Public Sénat : Les syndicats jugent la réponse insuffisante et la CGT appelle à la grève le 17 novembre (9-10 novembre 2026)",
+      "url": "https://www.publicsenat.fr/actualites/politique/hausse-du-smic-les-syndicats-jugent-la-reponse-insuffisante-et-la-cgt-appelle-a-la-greve-le-17-novembre",
+      "niveau": "presse",
+      "positionnement": "Chaîne parlementaire publique ; déclarations syndicales rapportées, donc sources partisanes"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Pourquoi les estimations de l'effet d'une hausse du Smic sur l'emploi ne sont-elles pas directement comparables entre elles ?",
+      "r": "Parce qu'elles reposent sur des **modèles et hypothèses différents** : effet brut ou net après consommation et allègements de cotisations, élasticités moyennes ou non. En France, il n'y a pas de consensus chiffré."
+    },
+    {
+      "q": "Quelles sont les trois grandes positions du débat « règle automatique ou coup de pouce » sur le Smic ?",
+      "r": "1) Règle automatique, coup de pouce exceptionnel ; 2) revalorisation politique assumée ; 3) réforme conjointe du Smic, des allègements et des prestations (CAE, 2026)."
+    }
+  ],
+  "question_reflexion": "Défendez en cinq phrases la position qui vous paraît la moins convaincante parmi les trois (règle seule, revalorisation politique, réforme conjointe Smic–allègements), en mobilisant son meilleur argument et une source.",
+  "a_verifier": [
+    "Montant des allègements généraux : 74 Md€ cité pour 2023 (Jean-Jaurès) et pour 2026 (CAE, d'après la leçon du 10 novembre) ; à recouper avec une source budgétaire.",
+    "Chiffres OFCE (322 000 emplois bruts, environ 29 000 nets) rapportés de seconde main via la Fondation Jean-Jaurès ; étude d'origine non consultée.",
+    "Chiffres de la note de l'Institut de l'Entreprise (hausse réelle du Smic de 37 % depuis 2000, productivité 20 %, Mésange) rapportés tels quels ; la note elle-même les présente comme des extrapolations.",
+    "Pages du CAE et de France Stratégie non rouvertes lors de cette exécution : contenus repris de la leçon du 10 novembre 2026.",
+    "Aucune revue académique récente sur l'emploi n'a pu être consultée (OpenEdition bloqué) : l'état du consensus académique est décrit comme absent sur la base des estimations divergentes citées."
+  ]
+}
