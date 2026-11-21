@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-21",
+  "type": "synthese",
+  "parcours": "Synthèse hebdomadaire : règle, décision et partage du pouvoir",
+  "titre": "Règle, dernier mot et territoires : le fil de la semaine du 15 au 20 novembre 2026",
+  "resume": "Six leçons, un fil : qui décide et à quel niveau ? Règle automatique ou décision discrétionnaire (Smic, point d'indice), dernier mot entre chambres (Sénat, PLFSS 2027, article 89) et partage avec les territoires (décentralisation).",
+  "contenu_md": "## Le fil de la semaine\n\nDu 15 au 20 novembre 2026, six leçons ont porté sur un débat salarial (Smic), une procédure de révision (référendum), une négociation dans la fonction publique, un partage de compétences (décentralisation), un budget en cours d'examen (PLFSS 2027) et une chambre (le Sénat). Un fil les relie : **qui décide, selon quelle règle, et à quel niveau ?** Trois réponses reviennent : une règle automatique, une décision discrétionnaire, un partage entre échelons ou entre chambres.\n\n## Fil 1 : règle ou décision discrétionnaire (Smic, fonction publique)\n\nLe 15 novembre, le débat sur le Smic a opposé trois positions : la règle d'indexation seule, une hausse politique assumée, une réforme conjointe du Smic et des allègements de cotisations. **Fait établi** : le Smic est indexé chaque 1er janvier, et un « coup de pouce » est une décision discrétionnaire. **Fait contesté** : l'effet d'une hausse sur l'emploi peu qualifié, car les estimations divergent selon les modèles. Le 17 novembre, la leçon sur la fonction publique a montré l'autre face : le point d'indice relève d'une décision du gouvernement (dernière hausse générale mentionnée par la DGAFP : juillet 2023). Une hausse du Smic fait donc remonter le bas des grilles, ce qui explique les mesures ciblées annoncées à Matignon le 13 novembre plutôt qu'un dégel général. Le choix entre mesure générale et mesure ciblée est un arbitrage de valeurs ; son coût (2,4 milliards d'euros pour 1 % de point d'indice, selon le gouvernement) est un fait à recouper.\n\n## Fil 2 : le dernier mot (Sénat, PLFSS)\n\nLe 20 novembre, la leçon sur le Sénat a décrit un bicamérisme inégalitaire : navette, commission mixte paritaire (CMP), puis possible « dernier mot » à l'Assemblée sur demande du Gouvernement (article 45). Le PLFSS 2027 en est l'illustration en direct : rejeté par l'Assemblée le 23 octobre, adopté par le Sénat le 18 novembre par 201 voix contre 124, avec une CMP envisagée le 26 novembre et un accord jugé peu probable par LCP et Public Sénat. Les voies de sortie (49.3, ordonnances, loi spéciale) restent des scénarios, pas des décisions.\n\n## Fil 3 : qui peut contourner ou bloquer (référendum, révision)\n\nLa leçon du 16 novembre sépare l'article 11 (référendum sur un projet de loi) de l'article 89 (révision, avec vote conforme des deux chambres). C'est le point de contact avec le Sénat : en matière de révision parlementaire, l'égalité des chambres est totale, sans « dernier mot ». Le débat d'octobre 2026 sur une révision par l'article 11 porte précisément sur ce contournement et sur la capacité du Conseil constitutionnel à l'arrêter ; les juristes divergent.\n\n## Fil 4 : les territoires (décentralisation, Sénat)\n\nLe 18 novembre, la décentralisation a été définie comme un transfert de compétences à des collectivités élues, dans un État resté unitaire (lois Defferre 1982-1983, révision du 28 mars 2003). Le 20 novembre, l'article 24 confie au Sénat la représentation des collectivités territoriales : les sénateurs sont élus par des grands électeurs, à environ 95 % délégués municipaux. Les deux leçons se répondent : l'État partage des compétences, et une chambre représente ceux qui les exercent. **Débat ouvert** : l'autonomie financière locale est reconnue formellement mais jugée peu effective, et la représentativité du collège sénatorial est discutée entre chercheurs et juristes.\n\n## Faits, contestations, jugements de valeur\n\n- **Établi** : procédures (indexation du Smic, navette, CMP, articles 11, 45 et 89), dates et votes (23 octobre et 18 novembre 2026).\n- **Contesté** : effets d'une hausse du Smic sur l'emploi ; périmètre exact du contrôle du juge sur l'article 11 ; explication de l'orientation politique du Sénat.\n- **Jugement de valeur** : faut-il préférer la règle ou la décision, la mesure générale ou ciblée, l'égalité des chambres ou le dernier mot de l'Assemblée. La recherche éclaire ces choix, elle ne les tranche pas.\n\n## À retenir pour réviser\n\nDevant une décision publique, se demander : est-elle automatique ou discrétionnaire, générale ou ciblée, prise par quelle chambre ou quel échelon, et avec quel recours ?",
+  "points_cles": [
+    "Règle ou discrétion : le Smic est indexé chaque 1er janvier, le point d'indice de la fonction publique relève d'une décision du gouvernement ; le « coup de pouce » est un choix politique.",
+    "Le Sénat est l'égal de l'Assemblée sauf au dernier mot (article 45) ; pour une révision parlementaire (article 89), l'égalité est totale.",
+    "Au 18 novembre 2026, le PLFSS 2027 a été adopté par le Sénat (201 voix contre 124) ; une CMP est envisagée le 26 novembre, sans accord assuré.",
+    "Décentralisation et Sénat se répondent : l'État unitaire partage des compétences, et l'article 24 fait représenter les collectivités par le Sénat."
+  ],
+  "sources": [
+    {
+      "titre": "Sénat, « Mode d'élection des sénateurs »",
+      "url": "https://www.senat.fr/connaitre-le-senat/role-et-fonctionnement/mode-delection-des-senateurs.html",
+      "niveau": "officiel",
+      "positionnement": "Institution : source officielle du Sénat sur son propre mode d'élection."
+    },
+    {
+      "titre": "Assemblée nationale, Fiche de synthèse n° 46 : La procédure législative",
+      "url": "https://www.assemblee-nationale.fr/dyn/synthese/fonctionnement-assemblee-nationale/travail-legislatif/la-procedure-legislative",
+      "niveau": "officiel",
+      "positionnement": "Institution : source officielle."
+    },
+    {
+      "titre": "Les révisions de la Constitution, L'essentiel n° 11 (vie-publique.fr)",
+      "url": "https://www.vie-publique.fr/files/medias/L_essentiel_Numero_11_Les_revisions_de_la_Constitution.pdf",
+      "niveau": "officiel",
+      "positionnement": "Service public d'information (Premier ministre) : source officielle."
+    },
+    {
+      "titre": "Qu'est-ce que la décentralisation ? (vie-publique.fr)",
+      "url": "https://www.vie-publique.fr/fiches/20168-quest-ce-que-la-decentralisation",
+      "niveau": "officiel",
+      "positionnement": "Service public d'information : source officielle."
+    },
+    {
+      "titre": "DGAFP, Rapport annuel 2026 : L'évolution des rémunérations",
+      "url": "https://www.fonction-publique.gouv.fr/files/files/publications/vue-rapport-annuel/2026/ra_2026_remu_evolutions.pdf",
+      "niveau": "officiel",
+      "positionnement": "Administration : source officielle de l'État employeur."
+    },
+    {
+      "titre": "Arnaud Brennetot, « Le scrutin sénatorial favorise-t-il les communes rurales et la droite ? » (The Conversation)",
+      "url": "https://theconversation.com/le-scrutin-senatorial-favorise-t-il-les-communes-rurales-et-la-droite-292145",
+      "niveau": "academique",
+      "positionnement": "Géographe universitaire ; texte de vulgarisation, non évalué par les pairs."
+    },
+    {
+      "titre": "Cette, Chouard et Verdugo, « Les effets des hausses du Smic sur le salaire moyen » (Insee)",
+      "url": "https://www.insee.fr/fr/statistiques/fichier/1377686/ES448A.pdf",
+      "niveau": "academique",
+      "positionnement": "Travail d'économistes publié par l'Insee."
+    },
+    {
+      "titre": "Public Sénat, Budget 2027 de la Sécurité sociale : les modifications à retenir après le passage au Sénat",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-les-modifications-a-retenir-apres-le-passage-du-projet-de-loi-au-senat",
+      "niveau": "presse",
+      "positionnement": "Média parlementaire, adossé au Sénat."
+    },
+    {
+      "titre": "Jean-Philippe Derosier, « Pour un Sénat plus légitime » (Fondation Jean-Jaurès)",
+      "url": "https://www.jean-jaures.org/publication/pour-un-senat-plus-legitime/",
+      "niveau": "think_tank",
+      "positionnement": "Fondation plutôt marquée à gauche."
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Dans quelle procédure l'égalité entre l'Assemblée nationale et le Sénat est-elle totale, sans « dernier mot » possible ?",
+      "r": "La **révision de la Constitution par la voie parlementaire (article 89)** : les deux chambres doivent voter un texte identique, puis référendum ou Congrès à 3/5. Pour une loi ordinaire, l'article 45 permet en revanche le dernier mot de l'Assemblée sur demande du Gouvernement."
+    },
+    {
+      "q": "Quelle différence de mécanisme entre la revalorisation du Smic et celle du point d'indice de la fonction publique (leçons de novembre 2026) ?",
+      "r": "Le **Smic** est indexé chaque 1er janvier selon une règle, un « coup de pouce » restant discrétionnaire. Le **point d'indice** relève d'une décision du gouvernement ; dernière hausse générale mentionnée par la DGAFP : juillet 2023 (+1,5 %)."
+    },
+    {
+      "q": "À quelle étape de la procédure législative le PLFSS 2027 était-il parvenu le 18 novembre 2026 ?",
+      "r": "Adopté en **première lecture par le Sénat** (201 voix contre 124), après rejet par l'Assemblée le 23 octobre. Étape suivante envisagée : une **CMP** (26 novembre, non confirmée par un document officiel)."
+    },
+    {
+      "q": "Quel lien constitutionnel relie la décentralisation au rôle du Sénat ?",
+      "r": "Le **Sénat représente les collectivités territoriales** (article 24), élu par des grands électeurs à environ 95 % délégués municipaux ; la **révision du 28 mars 2003** a inscrit à l'article 1er l'« organisation décentralisée » de la République."
+    }
+  ],
+  "question_reflexion": "Choisis une décision publique de la semaine (Smic, point d'indice, PLFSS) : relève-t-elle d'une règle automatique ou d'un choix discrétionnaire, et quel argument de l'autre position te paraît le plus solide ?",
+  "a_verifier": [
+    "Synthèse établie à partir des leçons du 15 au 20 novembre 2026 ; les chiffres (201/124, 23 octobre, 2,4 Md€, juillet 2023 +1,5 %, 95 % de délégués municipaux) restent ceux, non toujours recoupés, de ces leçons.",
+    "Bilan et ampleur de la grève du 17 novembre 2026 : non vérifiés (la recherche du jour n'a fourni qu'un article sur la grève du 29 septembre, écarté).",
+    "Date de la CMP sur le PLFSS 2027 (26 novembre) : « envisagée » selon les sources, non confirmée ; son issue est inconnue à la rédaction.",
+    "Le point d'indice comme décision du gouvernement sans formule d'indexation : lecture de la leçon du 17 novembre, à recouper avec un texte réglementaire.",
+    "Le rapprochement entre les fils (règle/discrétion, dernier mot, territoires) est une lecture de synthèse, non un résultat de recherche."
+  ]
+}
