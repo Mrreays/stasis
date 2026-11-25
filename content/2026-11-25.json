@@ -1,0 +1,95 @@
+{
+  "date": "2026-11-25",
+  "type": "notion",
+  "parcours": "Comportement électoral",
+  "sujet_curriculum": "Vote de classe, diplôme et territoire",
+  "titre": "Vote de classe, diplôme et territoire : qu'est-ce qui prédit vraiment le vote ?",
+  "resume": "Depuis le milieu du XXe siècle, le diplôme a changé de camp politique et s'est dissocié du revenu, tandis que le territoire reste corrélé au vote sans que l'on sache bien départager composition sociale et effet de lieu. La profession demeure un prédicteur net, mais les électorats se mélangent davantage.",
+  "contenu_md": "## La question\n\nDans quelle mesure la profession, le niveau de diplôme, le revenu ou le lieu de résidence permettent-ils de prédire un vote ? La leçon du 23 novembre 2026 sur Lipset et Rokkan a posé le cadre : les partis expriment des clivages. Reste à mesurer ce que ces clivages pèsent aujourd'hui, et lequel des trois facteurs, classe, diplôme ou territoire, explique le mieux les choix des électeurs.\n\n## Trois notions à distinguer\n\nLe **vote de classe** désigne le fait que les électeurs d'une même position sociale (ouvriers, cadres, indépendants…) votent de façon proche et différente des autres groupes. On le mesure par des écarts de score entre catégories, jamais par une règle absolue : un « vote ouvrier » majoritairement à gauche n'a jamais signifié que tous les ouvriers votaient à gauche.\n\nLe **diplôme** est devenu une variable centrale parce que l'école a élargi l'accès aux études longues, et parce qu'il capte autre chose que le revenu : un rapport à la culture, aux valeurs, à la mobilité. Le **territoire** (métropole, périurbain, rural, petite ville) désigne à la fois des populations différentes et des contextes qui pourraient avoir un effet propre. Cette dernière distinction, effet de composition ou effet de contexte, est au cœur du débat.\n\n## Un fait établi : l'inversion du clivage éducatif\n\nGethin, Martínez-Toledano et Piketty (*Quarterly Journal of Economics*, 2022) exploitent plus de 300 élections dans 21 démocraties occidentales entre 1948 et 2020. Leur constat : dans les années 1950-1960, le vote pour les partis sociaux-démocrates et socialistes était associé aux électeurs peu diplômés et à bas revenus. Il s'est progressivement associé aux plus diplômés, d'où, dans les années 2010, une **dissociation entre diplôme et revenu** : les plus diplômés votent plutôt à gauche, les plus hauts revenus continuent de voter plutôt à droite. Les auteurs relient ce renversement à l'émergence d'un axe « socioculturel » du conflit politique, accéléré par la montée des mouvements écologistes et anti-immigration. Ce travail, à l'échelle de 21 pays, est solide sur la tendance de long terme ; l'interprétation en termes de nouvel axe de conflit relève, elle, d'une lecture que d'autres chercheurs discutent. Pour la France, Julia Cagé et Thomas Piketty (*Une histoire du conflit politique*, 2023) prolongent l'analyse sur la période 1789-2022 en croisant géographie et inégalités sociales.\n\n## Ce que montrent les enquêtes récentes\n\nL'enquête Ipsos Talan du 27-28 juin 2024 (10 286 inscrits sur les listes électorales, pour France Télévisions, Radio France et Public Sénat) donne une photographie du premier tour des législatives de 2024. Le RN et ses alliés y atteignent 57 % chez les ouvriers, 44 % chez les employés et 49 % chez les non-bacheliers, mais 22 % chez les cadres. À l'inverse, le Nouveau Front populaire recueille 37 % chez les « bac+3 et plus » contre 17 % chez les non-bacheliers, et 33 % dans les agglomérations de plus de 200 000 habitants contre 23 % dans les communes rurales. Ipsos note aussi un élargissement du vote RN vers les retraités, les femmes, les plus hauts revenus et les grandes villes : le clivage existe, mais il ne dessine pas de blocs étanches.\n\nCes chiffres sont des **déclarations recueillies par sondage** : ils comportent une marge d'erreur (non précisée dans la page de synthèse consultée) et ne mesurent que des corrélations, sans dire pourquoi les électeurs votent ainsi.\n\n## Le territoire : composition ou contexte ?\n\nLe débat sur le « vote périurbain » illustre la difficulté. Les géographes Christophe Guilluy (« France périphérique ») et Jacques Lévy ont, par des analyses différentes, attiré l'attention sur le succès du Front national dans certains territoires hors des grandes métropoles. Éric Charmes, Lydie Launay et Stéphanie Vermeersch (*La Vie des idées*, 2013) contestent la réduction du périurbain au vote frontiste : ce vote est plus marqué dans certaines communes, mais ne peut être généralisé à tous les ménages du périurbain, ni à l'ensemble de ces territoires. Ils contestent aussi l'idée que l'espace périurbain favoriserait en lui-même le repli sur soi. Un territoire peut donc voter autrement parce qu'il **concentre** certaines catégories sociales (effet de composition), ou parce que le **lieu** modifie les comportements (effet de contexte) ; les enquêtes par sondage distinguent difficilement les deux.\n\n## Ce qu'il faut retenir\n\nLe diplôme discrimine désormais le vote au moins autant que le revenu, et dans un sens qui a changé depuis le milieu du XXe siècle. La profession reste un prédicteur net, mais les électorats se mélangent davantage. Le territoire est corrélé au vote, sans consensus sur la part qui revient au contexte. Aucun de ces facteurs ne suffit : ils se combinent, et l'âge, la religion, le patrimoine ou le rapport à l'immigration jouent aussi.\n\n## Pour aller plus loin\n\nLa question « le clivage de classe a-t-il disparu ou s'est-il déplacé ? » reste ouverte entre ceux qui voient un nouveau clivage éducatif et culturel, et ceux qui insistent sur la persistance des inégalités économiques derrière lui. Aucun consensus académique ne tranche aujourd'hui entre ces lectures.",
+  "points_cles": [
+    "Le vote de classe se mesure par des écarts de score entre catégories, jamais par une règle absolue.",
+    "Selon Gethin, Martínez-Toledano et Piketty (2022), dans 21 démocraties le vote de gauche, d'abord associé aux peu diplômés, s'est associé aux plus diplômés, alors que les plus hauts revenus votent encore plutôt à droite.",
+    "Au premier tour des législatives de 2024, d'après Ipsos Talan, le RN et ses alliés obtiennent 57 % chez les ouvriers et 22 % chez les cadres, tout en élargissant leur électorat.",
+    "Sur le territoire, la recherche distingue effet de composition et effet de contexte, et il n'y a pas de consensus sur la part de chacun."
+  ],
+  "positions": [
+    {
+      "position": "Le clivage éducatif et culturel a pris le pas sur le clivage de classe économique",
+      "argument": "Le vote selon le diplôme s'est inversé et dissocié du revenu, en lien avec un axe socioculturel (écologie, immigration) ; la profession et le revenu expliquent moins bien que par le passé.",
+      "auteurs": [
+        "Amory Gethin",
+        "Clara Martínez-Toledano",
+        "Thomas Piketty",
+        "Julia Cagé"
+      ]
+    },
+    {
+      "position": "Le territoire exprime des fractures sociales et économiques entre métropoles et territoires éloignés",
+      "argument": "Les territoires hors des grandes métropoles concentrent des ménages modestes et un vote plus marqué pour le Front national puis le RN, que les analyses de la « France périphérique » rattachent à une relégation économique et culturelle.",
+      "auteurs": [
+        "Christophe Guilluy",
+        "Jacques Lévy (analyse différente, discutée par Charmes et al.)"
+      ]
+    },
+    {
+      "position": "Les catégories territoriales sont trop grossières pour attribuer un vote à un lieu",
+      "argument": "Le vote frontiste est plus marqué dans certaines communes périurbaines, mais ne peut être généralisé à l'ensemble des ménages ni du périurbain ; l'hypothèse d'un repli propre à l'espace périurbain est contestée.",
+      "auteurs": [
+        "Éric Charmes",
+        "Lydie Launay",
+        "Stéphanie Vermeersch"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Gethin, Martínez-Toledano, Piketty, « Brahmin left versus merchant right : changing political cleavages in 21 Western democracies, 1948-2020 », Quarterly Journal of Economics, 137(1), 2022",
+      "url": "https://spiral.imperial.ac.uk/entities/publication/79f99e15-e410-4311-9798-29a3a5d58e9f",
+      "niveau": "academique",
+      "positionnement": "Revue à comité de lecture ; base de données sur plus de 300 élections ; lecture en termes de clivage socioculturel."
+    },
+    {
+      "titre": "Charmes, Launay, Vermeersch, « Le périurbain, France du repli ? », La Vie des idées, 28 mai 2013",
+      "url": "https://laviedesidees.fr/Le-periurbain-France-du-repli",
+      "niveau": "academique",
+      "positionnement": "Essai de chercheurs, en discussion critique avec Guilluy et Lévy ; suivi d'une réponse de Jacques Lévy."
+    },
+    {
+      "titre": "Ipsos Talan, Sociologie des électorats - Législatives 2024 (1er tour), enquête des 27-28 juin 2024, 10 286 inscrits, pour France Télévisions, Radio France et Public Sénat",
+      "url": "https://www.ipsos.com/fr-fr/legislatives-2024/sociologie-des-electorats-legislatives-2024",
+      "niveau": "officiel",
+      "positionnement": "Institut de sondage reconnu ; marge d'erreur non précisée dans la synthèse consultée ; déclarations d'électeurs."
+    },
+    {
+      "titre": "Cagé et Piketty, Une histoire du conflit politique : élections et inégalités sociales en France, 1789-2022, Seuil, 2023 (éd. anglaise Harvard University Press)",
+      "url": "https://www.degruyterbrill.com/document/doi/10.4159/9780674300590/html",
+      "niveau": "academique",
+      "positionnement": "Ouvrage de recherche d'économistes ; lecture centrée sur les inégalités sociales et la géographie du vote."
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Que montrent Gethin, Martínez-Toledano et Piketty (QJE, 2022) sur l'évolution du vote selon le diplôme dans 21 démocraties occidentales entre 1948 et 2020 ?",
+      "r": "Le vote pour les partis sociaux-démocrates et socialistes, d'abord associé aux **peu diplômés**, s'est associé aux **plus diplômés** ; dans les années 2010, diplôme et revenu pèsent en sens opposés : les plus diplômés votent plutôt à gauche, les plus hauts revenus plutôt à droite."
+    },
+    {
+      "q": "Quelle est la différence entre effet de composition et effet de contexte dans l'analyse du vote par territoire ?",
+      "r": "**Composition** : un territoire vote différemment parce qu'il concentre certaines catégories sociales. **Contexte** : le lieu lui-même modifie les comportements. Les enquêtes par sondage les distinguent difficilement."
+    },
+    {
+      "q": "Quels scores le RN et ses alliés obtiennent-ils chez les ouvriers et chez les cadres au premier tour des législatives de 2024, selon l'enquête Ipsos Talan des 27-28 juin 2024 ?",
+      "r": "**57 %** chez les ouvriers et **22 %** chez les cadres (déclarations d'électeurs recueillies par sondage, marge d'erreur non précisée dans la synthèse)."
+    },
+    {
+      "q": "Que contestent Charmes, Launay et Vermeersch (La Vie des idées, 2013) au sujet du vote périurbain ?",
+      "r": "Ils contestent la **réduction du périurbain au vote frontiste** : ce vote est plus marqué dans certaines communes, mais ne peut être généralisé à tous les ménages ni à l'ensemble du périurbain, et l'idée que l'espace périurbain favoriserait en soi le repli est remise en cause."
+    }
+  ],
+  "question_reflexion": "Si le diplôme et le revenu poussent aujourd'hui dans des directions opposées, que reste-t-il de l'idée de « vote de classe » ? Formulez en trois phrases ce que vous mesureriez pour trancher entre un clivage qui disparaît et un clivage qui se déplace.",
+  "a_verifier": [
+    "Les chiffres Ipsos (57 %, 22 %, 37 %, 17 %, 33 %, 23 %) proviennent de la synthèse en ligne ; la marge d'erreur n'y figure pas, à recouper avec le rapport complet PDF.",
+    "Le contenu du livre de Cagé et Piketty (2023) n'a pas été consulté directement : seule la fiche de l'ouvrage l'a été, à recouper avant de lui attribuer des résultats précis.",
+    "Les positions de Guilluy et de Lévy sont rapportées à travers l'article de Charmes, Launay et Vermeersch (2013), non à partir de leurs propres textes.",
+    "L'état du consensus académique sur la part du contexte territorial dans le vote n'a pas été vérifié par une revue de littérature récente."
+  ]
+}
