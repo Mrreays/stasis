@@ -1,0 +1,96 @@
+{
+  "date": "2026-11-27",
+  "type": "notion",
+  "parcours": "Comportement électoral",
+  "sujet_curriculum": "Abstention et participation électorale",
+  "titre": "Abstention et participation : qui ne vote pas, quand, et pourquoi ?",
+  "resume": "L'abstention française est moins un bloc qu'une intermittence : en 2022, 16 % des inscrits n'ont voté à aucun tour, 48 % par intermittence. Elle suit des variables lourdes (âge, diplôme, niveau de vie, inscription), mais la recherche discute la part de désaffection politique et celle d'obstacles pratiques.",
+  "contenu_md": "## La question\n\nLa leçon du 25 novembre 2026 a montré que diplôme, profession et territoire structurent le vote. Reste une question préalable : qui vote, tout simplement ? Car un électorat ne se lit pas seulement dans ses choix, mais aussi dans ses silences. Définition : l'**abstention** est le fait, pour un électeur inscrit, de ne pas se rendre aux urnes ; elle diffère de la **non-inscription** et de la **mal-inscription** (être inscrit dans une commune où l'on ne réside plus), qui empêchent de voter avant même le scrutin.\n\n## Les faits établis\n\n**Une tendance de long terme à la hausse, très inégale selon le scrutin.** Aux législatives, l'abstention au premier tour est passée de 35,58 % des inscrits en 2002 à 52,49 % en 2022 (Vie-publique.fr, d'après les données officielles). La présidentielle reste le scrutin le plus mobilisateur : en 2022, 83 % des inscrits ont voté à au moins un tour, contre 58 % aux législatives (Insee). Les municipales ne font pas exception : selon le ministère de l'Intérieur, la participation au premier tour a été de 63,55 % en 2014, 44,66 % en 2020 (scrutin tenu en pleine crise sanitaire) et 57,1 % en 2026. Comparer 2020 et 2026 demande donc de la prudence : 2020 est une situation exceptionnelle.\n\n**L'abstention est surtout intermittente.** L'Insee distingue trois comportements sur l'ensemble des scrutins nationaux de 2022 : 36 % de votants systématiques, 48 % de votants intermittents, 16 % d'abstentionnistes systématiques. Depuis 2017, le vote intermittent dépasse le vote systématique. Beaucoup d'électeurs choisissent donc scrutin par scrutin : c'est le « vote sur enjeux », opposé au vote « rituel » ou de devoir.\n\n**Des variables lourdes.** L'âge : 24 % des moins de 35 ans n'ont voté à aucun tour en 2022, contre environ 9 % des 50-69 ans ; l'abstention systématique remonte ensuite aux grands âges (56 % après 90 ans, où la santé joue). Le diplôme : 30 % d'abstention systématique chez les non-diplômés contre 10 % chez les diplômés du supérieur. Le niveau de vie et la profession : 24 % chez les ouvriers non qualifiés contre 7 % chez les cadres. Ces écarts sont plus marqués aux législatives qu'à la présidentielle. Le territoire compte, mais surtout par composition : dans les quartiers prioritaires, l'abstention systématique est de 29 % contre 16 % ailleurs, et l'écart est très atténué à caractéristiques sociales identiques (Insee).\n\n**L'inscription est une première barrière.** L'Insee observe que 83 % des 25 % les plus modestes sont inscrits, contre 96 % des 25 % les plus aisés : sur 100 personnes en âge de voter, 62 participent chez les plus modestes, 88 chez les plus aisées. Les inégalités s'additionnent donc avant et après l'inscription.\n\n## Ce que la recherche discute\n\nPour **Céline Braconnier et Jean-Yves Dormagen**, l'abstention est d'abord un fait social : elle traduit une démobilisation en milieu populaire, liée à l'éloignement du politique et à l'affaiblissement des relais (syndicats, partis, associations), et elle accroît les inégalités de participation (*La Démocratie de l'abstention*, 2007 ; RFSP, 2017 avec Coulmont). Leur travail expérimental avec Vincent Pons (*APSR*, 2017) ajoute un résultat important : des coûts pratiques d'inscription pèsent réellement, et un accompagnement à l'inscription fait monter les inscriptions.\n\nPour **Anne Muxel**, il faut distinguer des abstentionnistes « dans le jeu politique » (diplômés, intégrés, intéressés, qui s'abstiennent pour peser ou par déception de l'offre) et « hors du jeu politique » (peu diplômés, en difficulté d'insertion, qui ne se reconnaissent pas dans le jeu). L'abstention est alors aussi une expression politique et non un simple retrait.\n\nCes lectures se complètent plus qu'elles ne s'opposent, mais elles ne portent pas les mêmes conclusions : si l'abstention est surtout un coût d'accès, on agit sur les procédures ; si elle est surtout une désaffection, on agit sur l'offre politique et la confiance. Il n'y a pas de consensus qui hiérarchise précisément ces deux causes.\n\n## Jugements de valeur, à part\n\nL'abstention pose-t-elle un problème de légitimité ? Vie-publique.fr rapporte qu'en 2022, 83 % des députés ont été élus avec les voix de 20 à 30 % des inscrits, ce qui nourrit chez certains la contestation de la représentativité. D'autres répondent que le vote reste un droit, pas un devoir en France. Quant aux remèdes (inscription automatique, vote par correspondance, vote obligatoire, abaissement de l'âge du vote), ils relèvent de choix de valeurs que cette leçon ne tranche pas. La Fondation Jean-Jaurès, think tank marqué à gauche, propose par exemple de simplifier l'inscription et le vote ; c'est une position, non un fait.\n\n## Retenir\n\nL'abstention n'est ni uniforme ni un simple « désintérêt » : elle combine intermittence, inégalités sociales d'inscription et de participation, et effet du type de scrutin.",
+  "points_cles": [
+    "En 2022 (Insee) : 36 % de votants systématiques, 48 % d'intermittents, 16 % d'abstentionnistes systématiques sur l'ensemble présidentielle et législatives.",
+    "La participation croît avec l'âge (jusque vers 80 ans), le diplôme et le niveau de vie ; l'écart territorial s'explique surtout par la composition sociale.",
+    "Les inégalités se cumulent dès l'inscription sur les listes, avant même le vote.",
+    "Les chercheurs distinguent obstacles pratiques et désaffection politique, sans consensus sur leur poids respectif."
+  ],
+  "positions": [
+    {
+      "position": "L'abstention est surtout le produit d'inégalités sociales et de coûts d'accès",
+      "argument": "Les écarts selon le diplôme, la profession et le niveau de vie sont très stables, plus forts aux législatives, et les inégalités commencent dès l'inscription ; un accompagnement à l'inscription augmente le nombre d'inscrits.",
+      "auteurs": ["Céline Braconnier", "Jean-Yves Dormagen", "Vincent Pons"]
+    },
+    {
+      "position": "L'abstention est aussi un choix politique, notamment chez les électeurs intégrés",
+      "argument": "Une partie des abstentionnistes, diplômés et intéressés par la politique, s'abstiennent de façon intermittente pour manifester leur désaffection envers l'offre, d'où la distinction entre abstentionnistes « dans le jeu » et « hors du jeu » politique.",
+      "auteurs": ["Anne Muxel"]
+    }
+  ],
+  "sources": [
+    {
+      "titre": "Insee Première n° 1928, « Élections présidentielle et législatives de 2022 : seul un tiers des électeurs a voté à tous les tours » (K. Bloch, novembre 2022)",
+      "url": "https://www.insee.fr/fr/statistiques/6658145",
+      "niveau": "officiel",
+      "positionnement": "Enquête sur la participation électorale 2022, 34 000 inscrits, champ différent de celui du ministère de l'Intérieur"
+    },
+    {
+      "titre": "Ministère de l'Intérieur, Élections municipales et communautaires 2026 : bilan chiffré du premier et du second tour (24 mars 2026)",
+      "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/elections-municipales-et-communautaires-2026-bilan-chiffre-du-premier-et-du-second-tour",
+      "niveau": "officiel",
+      "positionnement": "Données officielles de participation, 2008 à 2026"
+    },
+    {
+      "titre": "Vie-publique.fr, Participation et abstention aux élections législatives : quelles évolutions depuis 2002 ? (26 juin 2024)",
+      "url": "https://www.vie-publique.fr/eclairage/294715-participation-et-abstention-aux-elections-legislatives-depuis-2002",
+      "niveau": "officiel",
+      "positionnement": "Site d'information institutionnel (Direction de l'information légale et administrative), synthèse de données Insee et du ministère de l'Intérieur"
+    },
+    {
+      "titre": "Braconnier, Coulmont, Dormagen, « Toujours pas de chrysanthèmes pour les variables lourdes de la participation électorale », Revue française de science politique, vol. 67, 2017",
+      "url": "https://www.cairn.info/revue-francaise-de-science-politique-2017-6-page-1023.htm",
+      "niveau": "academique",
+      "positionnement": "Sociologie électorale, revue à comité de lecture"
+    },
+    {
+      "titre": "Braconnier, Dormagen, Pons, « Voter Registration Costs and Disenfranchisement: Experimental Evidence from France », American Political Science Review, vol. 111, n° 3, 2017",
+      "url": null,
+      "niveau": "academique",
+      "positionnement": "Expérience de terrain sur les coûts d'inscription ; revue à comité de lecture"
+    },
+    {
+      "titre": "Anne Muxel, « Abstention : défaillance citoyenne ou expression démocratique ? », Nouveaux Cahiers du Conseil constitutionnel (2008)",
+      "url": "https://www.conseil-constitutionnel.fr/nouveaux-cahiers-du-conseil-constitutionnel/abstention-defaillance-citoyenne-ou-expression-democratique",
+      "niveau": "academique",
+      "positionnement": "Sociologie politique (Cevipof) ; article cité via Vie-publique.fr, titre à recouper"
+    },
+    {
+      "titre": "Dorian Dreuil, « La République de l'abstention », Fondation Jean-Jaurès (2021)",
+      "url": "https://www.jean-jaures.org/publication/la-republique-de-labstention/",
+      "niveau": "think_tank",
+      "positionnement": "Think tank plutôt marqué à gauche ; contient des propositions de réforme (jugements de valeur)"
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Quelles sont les trois catégories de comportement électoral distinguées par l'Insee pour les scrutins nationaux de 2022, et leurs parts parmi les inscrits ?",
+      "r": "Vote systématique **36 %**, vote intermittent **48 %**, abstention systématique **16 %** (Insee Première n° 1928, présidentielle et législatives de 2022)."
+    },
+    {
+      "q": "Quel écart d'abstention systématique l'Insee observe-t-il en 2022 entre inscrits non diplômés et diplômés du supérieur (25 ans ou plus) ?",
+      "r": "Environ **30 %** chez les non-diplômés contre **10 %** chez les diplômés du supérieur."
+    },
+    {
+      "q": "Quelle est la différence entre mal-inscription et non-inscription sur les listes électorales ?",
+      "r": "Le **mal-inscrit** est inscrit, mais dans une commune où il ne réside plus. Le **non-inscrit** n'est inscrit nulle part. Dans les deux cas, il ne peut pas voter dans sa commune de résidence."
+    },
+    {
+      "q": "Quelle distinction Anne Muxel (2008) fait-elle entre deux types d'abstentionnistes ?",
+      "r": "Les abstentionnistes **« dans le jeu politique »** (plutôt diplômés, intéressés, qui s'abstiennent par intermittence pour exprimer une désaffection) et ceux **« hors du jeu politique »** (peu diplômés, en difficulté d'insertion, qui ne se reconnaissent pas dans le jeu)."
+    }
+  ],
+  "question_reflexion": "Si l'on veut réduire l'abstention, faut-il d'abord agir sur les procédures (inscription, vote à distance) ou sur l'offre politique et la confiance ? Quels éléments de la leçon appuient chaque réponse, et lesquels manquent pour trancher ?",
+  "a_verifier": [
+    "Chiffres de participation des législatives de 2024 : non repris ici, à recouper avec le ministère de l'Intérieur avant toute comparaison avec 2022.",
+    "Les données de l'Insee portent sur les inscrits résidant en France et un échantillon ; elles ne se superposent pas exactement aux taux du ministère de l'Intérieur.",
+    "L'article de Muxel est cité via Vie-publique.fr (titre et URL du Conseil constitutionnel à recouper).",
+    "La participation municipale de 2020 est un cas particulier (crise sanitaire) : ne pas en tirer de tendance directe."
+  ]
+}
