@@ -1,0 +1,102 @@
+{
+  "date": "2026-11-28",
+  "type": "synthese",
+  "parcours": "Synthèse hebdomadaire : représentation, participation et décision",
+  "titre": "Qui est représenté, qui vote, qui décide : le fil de la semaine du 22 au 27 novembre 2026",
+  "resume": "Six leçons, un fil : des clivages hérités (Lipset et Rokkan, vote selon le diplôme et le territoire) à l'abstention, puis aux décisions parlementaires provisoires sur la Corse, le logement et les retraites.",
+  "contenu_md": "## Le fil de la semaine\n\nDu 22 au 27 novembre 2026, six leçons ont porté sur l'autonomie de la Corse (22 novembre), les clivages de Lipset et Rokkan (23), le projet de loi logement (24), le vote selon la classe, le diplôme et le territoire (25), l'abattement fiscal des retraités (26) et l'abstention (27). Un fil les relie : **qui est représenté, qui vote, et qui décide ?** La semaine passe de l'électeur au vote parlementaire.\n\n## Fil 1 : des clivages hérités aux conflits d'aujourd'hui\n\nLipset et Rokkan (1967) font naître les partis de quatre clivages : centre-périphérie, État-Église, rural-urbain, propriétaires-travailleurs. Hooghe et Marks (2018) soutiennent qu'un clivage transnational (identité, immigration, intégration européenne) s'y ajoute. La leçon du 25 novembre mesure ces écarts : selon Gethin, Martínez-Toledano et Piketty (2022), le vote de gauche s'est déplacé des moins diplômés vers les plus diplômés dans 21 démocraties, tandis que les hauts revenus votent encore plutôt à droite. Le territoire reste corrélé au vote, sans consensus sur la part de composition sociale et de « effet de lieu ».\n\nLes actualités de la semaine peuvent se lire avec cette grille, à titre d'**hypothèse de lecture**, non de constat des sources. La Corse relève du centre-périphérie : le débat y porte sur l'autonomie normative contre l'indivisibilité de la République. Le logement touche à la ligne propriétaires-locataires et à l'écart entre territoires. Les retraités renvoient à une ligne d'âge, qui n'est pas un clivage de Lipset et Rokkan.\n\n## Fil 2 : qui vote ?\n\nL'Insee distingue pour 2022 : 36 % de votants systématiques, 48 % d'intermittents, 16 % d'abstentionnistes systématiques. La participation croît avec l'âge, le diplôme et le niveau de vie, et l'inscription sur les listes est déjà inégale. Braconnier et Dormagen y voient un fait social lié à la démobilisation populaire et aux coûts d'inscription ; Muxel distingue des abstentionnistes « dans le jeu » et « hors du jeu ». Il n'y a pas de consensus hiérarchisant obstacles pratiques et désaffection.\n\nLe lien avec les autres leçons est une question ouverte, pas un résultat : si la participation varie selon l'âge et le diplôme, les électorats qui s'expriment ne sont pas un miroir de la population. Selon la DREES (2023), 70 % des ménages de retraités sont propriétaires contre 57 % de l'ensemble, et leur niveau de vie médian est équivalent à celui de la population. Que les décideurs ajustent leurs choix à ces écarts de participation est une hypothèse que cette synthèse ne démontre pas.\n\n## Fil 3 : qui décide ? Le dernier mot est ailleurs\n\nTrois épisodes montrent des décisions non définitives. Le Sénat a rejeté la révision corse le 27 octobre 2026 (181 contre 134) : en révision parlementaire (article 89), il dispose d'un veto de fait. À l'Assemblée, l'amendement RN sur les passoires thermiques a été adopté le 17 novembre par 108 voix contre 102, sur 210 votants, et la commission mixte paritaire doit trancher. Au Sénat, le plafond de l'abattement de 10 % a été fixé à 1 000 euros par 175 voix contre 161 le 24 novembre, et la navette continue.\n\nFaits établis : les scrutins et les chiffres de l'Insee et de la DREES. Faits contestés : l'interprétation juridique du texte corse, la fiabilité du DPE, la part des causes de l'abstention. Jugements de valeur : égalité contre adaptation locale, et pesée entre efforts demandés aux retraités et autres arbitrages. La synthèse ne les tranche pas.\n\n## À retenir\n\nUn électorat se décrit par ses choix (clivages), par ses silences (abstention) et par ceux qui décident en son nom (chambres, CMP). Les suites de la semaine (CMP logement, navette budgétaire) n'étaient pas connues à la rédaction.\n",
+  "points_cles": [
+    "Les clivages de Lipset et Rokkan (1967) restent un cadre de lecture, mais la recherche débat de leur dégel et d'un clivage transnational (Hooghe et Marks, 2018).",
+    "En 2022, l'Insee compte 36 % de votants systématiques, 48 % d'intermittents et 16 % d'abstentionnistes systématiques ; la participation croît avec l'âge, le diplôme et le niveau de vie.",
+    "Trois décisions de novembre 2026 sont provisoires : veto du Sénat sur la Corse (181 contre 134), amendement RN adopté 108 contre 102, plafond de 1 000 euros voté 175 contre 161.",
+    "Le lien entre écarts de participation et choix des décideurs est une hypothèse, non un résultat établi par les sources de la semaine."
+  ],
+  "sources": [
+    {
+      "titre": "Hooghe L., Marks G., « Cleavage theory meets Europe's crises: Lipset, Rokkan, and the transnational cleavage », Journal of European Public Policy, 25(1), 2018",
+      "url": "https://hooghe.web.unc.edu/wp-content/uploads/sites/11492/2018/07/Hooghe-Marks-Cleavage-theory-meets-Europes-crises_-Lipset-Rokkan-and-the-transnational-cleavage.pdf",
+      "niveau": "academique",
+      "positionnement": "Revue à comité de lecture ; thèse du clivage transnational (néo-théorie des clivages)."
+    },
+    {
+      "titre": "Gethin, Martínez-Toledano, Piketty, « Brahmin left versus merchant right : changing political cleavages in 21 Western democracies, 1948-2020 », Quarterly Journal of Economics, 137(1), 2022",
+      "url": "https://spiral.imperial.ac.uk/entities/publication/79f99e15-e410-4311-9798-29a3a5d58e9f",
+      "niveau": "academique",
+      "positionnement": "Revue à comité de lecture ; base de données sur plus de 300 élections ; lecture en termes de clivage socioculturel."
+    },
+    {
+      "titre": "Insee Première n° 1928, « Élections présidentielle et législatives de 2022 : seul un tiers des électeurs a voté à tous les tours » (K. Bloch, novembre 2022)",
+      "url": "https://www.insee.fr/fr/statistiques/6658145",
+      "niveau": "officiel",
+      "positionnement": "Enquête sur la participation électorale 2022, 34 000 inscrits, champ différent de celui du ministère de l'Intérieur"
+    },
+    {
+      "titre": "Braconnier, Coulmont, Dormagen, « Toujours pas de chrysanthèmes pour les variables lourdes de la participation électorale », Revue française de science politique, vol. 67, 2017",
+      "url": "https://www.cairn.info/revue-francaise-de-science-politique-2017-6-page-1023.htm",
+      "niveau": "academique",
+      "positionnement": "Sociologie électorale, revue à comité de lecture"
+    },
+    {
+      "titre": "Rapport d'information de la mission sur l'avenir institutionnel de la Corse (rapporteur Florent Boudié), Assemblée nationale, 3 juin 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/RAPPANR5L17B2865.html",
+      "niveau": "officiel",
+      "positionnement": "Document parlementaire ; le rapporteur est de la majorité présidentielle et plaide pour le texte : à lire comme une position argumentée plus que comme un constat neutre."
+    },
+    {
+      "titre": "Assemblée nationale – Scrutin n° 9919 (amendement RN sur l'interdiction de louer)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9919",
+      "niveau": "officiel",
+      "positionnement": "Résultat de scrutin public ; page identifiée via l'article de LCP et non consultée directement."
+    },
+    {
+      "titre": "DREES – Le niveau de vie des retraités (Les retraités et les retraites, édition 2026, fiche 09)",
+      "url": "https://drees.solidarites-sante.gouv.fr/sites/default/files/2026-10/RR2026%20-%20Fiche%2009%20-%20Le%20niveau%20de%20vie%20des%20retrait%C3%A9s.pdf",
+      "niveau": "officiel",
+      "positionnement": "Service statistique des ministères sociaux ; données 2023 issues de l'enquête Revenus fiscaux et sociaux (Insee)."
+    },
+    {
+      "titre": "Anne Muxel, « Abstention : défaillance citoyenne ou expression démocratique ? », Nouveaux Cahiers du Conseil constitutionnel (2008)",
+      "url": "https://www.conseil-constitutionnel.fr/nouveaux-cahiers-du-conseil-constitutionnel/abstention-defaillance-citoyenne-ou-expression-democratique",
+      "niveau": "academique",
+      "positionnement": "Sociologie politique (Cevipof) ; article cité via Vie-publique.fr, titre à recouper"
+    },
+    {
+      "titre": "Public Sénat – Budget 2027 : coup de théâtre, le Sénat renonce à supprimer l'abattement de 10 % des retraités, mais le plafonne à 1000 euros (24/11/2026)",
+      "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-coup-de-theatre-le-senat-renonce-a-supprimer-labattement-de-10-des-retraites",
+      "niveau": "presse",
+      "positionnement": "Chaîne parlementaire du Sénat : couverture factuelle, mais média institutionnel de la chambre concernée."
+    },
+    {
+      "titre": "Sylvia Brunet, « Quel avenir constitutionnel pour la Corse ? » (The Conversation, republié par l'université de Rouen Normandie, 14 mars 2025)",
+      "url": "https://www.univ-rouen.fr/actualites/quel-avenir-constitutionnel-pour-la-corse/?pdf=25557",
+      "niveau": "academique",
+      "positionnement": "Professeure de droit public ; analyse juridique descriptive qui souligne les ambiguïtés du texte, sans prendre parti sur l'autonomie. Écrit avant les votes de 2026."
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "Quel est le fil conducteur des leçons du 22 au 27 novembre 2026 ?",
+      "r": "Qui est représenté, qui vote et qui décide : des **clivages** et de l'**abstention** aux décisions parlementaires provisoires (Corse, logement, abattement des retraités)."
+    },
+    {
+      "q": "Pourquoi le Sénat peut-il bloquer une révision constitutionnelle de l'article 89, comme pour la Corse en octobre 2026 ?",
+      "r": "Il faut un **texte identique** des deux chambres, puis les trois cinquièmes du Congrès ou un référendum : le Sénat a un veto de fait, sans dernier mot."
+    },
+    {
+      "q": "Quelle répartition de comportements électoraux l'Insee observe-t-il pour les scrutins nationaux de 2022 ?",
+      "r": "**36 %** de votants systématiques, **48 %** d'intermittents, **16 %** d'abstentionnistes systématiques."
+    },
+    {
+      "q": "Pourquoi les décisions de novembre 2026 sur le logement et l'abattement des retraités ne sont-elles pas définitives ?",
+      "r": "Les textes restent dans la **navette** : le sort de l'interdiction de louer les passoires thermiques passe par une CMP, et le plafond de 1 000 euros (Sénat, 175 contre 161) doit encore être confronté à l'Assemblée."
+    }
+  ],
+  "question_reflexion": "Si les électorats qui votent diffèrent de la population (âge, diplôme), quels indices permettraient de tester que les décisions publiques en tiennent compte, et lesquels ne le permettraient pas ?",
+  "a_verifier": [
+    "Résultat du vote solennel du 24 novembre 2026 sur le projet de loi logement et date de la CMP : non confirmés ici (recherche sans résultat exploitable).",
+    "Résultat de la CMP sur le PLFSS 2027 prévue le 26 novembre 2026 : non connu à la rédaction.",
+    "Lecture des épisodes (Corse, logement, retraités) à travers les clivages de Lipset et Rokkan : hypothèse de lecture de cette synthèse, non posée par les sources.",
+    "Lien entre écarts de participation par âge et décisions fiscales : hypothèse, non démontrée.",
+    "Chiffres repris des leçons précédentes, non recoupés à nouveau dans les sources originales."
+  ]
+}
